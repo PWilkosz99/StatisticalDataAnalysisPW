@@ -46,7 +46,13 @@ bptest(model1)
 
 #p> alfa -> nie ma podstaw do odrzucenia H0
 
+#INTEPRETACJA
+desc <- summary(model1)
+desc$r.squared
+
 
 #2
 newpred <- data.frame(CzasSzkolenia=12)
 predict(model1, newpred)
+
+
