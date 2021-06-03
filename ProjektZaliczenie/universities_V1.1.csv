@@ -1,4 +1,4 @@
-﻿rank,name,location,national_rank,quality_of_education,alumni_employment,quality_of_faculty,research_performance,score,domain
+rank,name,location,national_rank,quality_of_education,alumni_employment,quality_of_faculty,research_performance,score,domain
 1,Harvard University,USA,1,3,1,1,1,100,harvard.edu
 2,Massachusetts Institute of Technology,USA,2,4,11,2,7,96.7,mit.edu
 3,Stanford University,USA,3,10,4,3,2,95.2,stanford.edu
@@ -12,7 +12,7 @@
 11,California Institute of Technology,USA,9,2,128,5,74,90.4,caltech.edu
 12,"University of California, Berkeley",USA,10,9,57,8,14,90.1,berkeley.edu
 13,Cornell University,USA,11,13,28,17,24,89.8,cornell.edu
-14,University of Tokyo,Japan,1,37,7,105,27,89.5,utokyo.ac.jp
+14,University of Tokyo,Japan,1,37,7,105,27,89.5,u-tokyo.ac.jp
 15,Johns Hopkins University,USA,12,20,188,22,6,89.3,jhu.edu
 16,"University of Michigan, Ann Arbor",USA,13,32,37,82,5,89,umich.edu
 17,Northwestern University,USA,14,139,17,46,29,88.8,northwestern.edu
@@ -21,33 +21,33 @@
 20,Duke University,USA,16,61,51,16,21,88.2,duke.edu
 21,PSL University,France,1,16,27,100,121,88,psl.eu
 22,University of Illinois at Urbana–Champaign,USA,17,23,133,12,61,87.8,illinois.edu
-23,University of Washington  Seattle,USA,18,60,216,23,9,87.7,washington.edu
+23,University of Washington - Seattle,USA,18,60,216,23,9,87.7,washington.edu
 24,University of Toronto,Canada,1,225,159,21,3,87.5,utoronto.ca
 25,New York University,USA,19,43,42,40,45,87.3,nyu.edu
 26,University of Wisconsin–Madison,USA,20,34,93,34,31,87.2,wisc.edu
 27,McGill University,Canada,2,25,100,36,43,87.1,mcgill.ca
-28,Kyoto University,Japan,2,47,34,60,65,86.9,kyotou.ac.jp
+28,Kyoto University,Japan,2,47,34,60,65,86.9,kyoto-u.ac.jp
 29,ETH Zurich,Switzerland,1,48,92,20,40,86.8,ethz.ch
 30,Imperial College London,United Kingdom,4,59,103,51,17,86.7,imperial.ac.uk
 31,Seoul National University,South Korea,1,317,22,134,60,86.5,snu.ac.kr
-32,ParisSaclay University,France,2,195,138,44,13,86.4,universiteparissaclay.fr
+32,Paris-Saclay University,France,2,195,138,44,13,86.4,universite-paris-saclay.fr
 33,University of Texas at Austin,USA,21,79,65,15,55,86.3,utexas.edu
 34,University of California San Diego,USA,22,116,,13,18,86.2,ucsd.edu
-35,Institut Polytechnique de Paris,France,3,87,6,214,304,86.1,ipparis.fr
+35,Institut Polytechnique de Paris,France,3,87,6,214,304,86.1,ip-paris.fr
 36,Dartmouth College,USA,23,54,16,93,263,85.9,dartmouth.edu
 37,"University of California, San Francisco",USA,24,,,18,23,85.8,ucsf.edu
 38,University of Copenhagen,Denmark,1,85,360,41,25,85.7,ku.dk
 39,Karolinska Institute,Sweden,1,38,,31,53,85.6,ki.se
 40,University of North Carolina at Chapel Hill,USA,25,83,105,75,33,85.5,unc.edu
 41,Rockefeller University,USA,26,12,,6,398,85.4,rockefeller.edu
-42,Sorbonne University,France,4,94,355,89,16,85.3,sorbonneuniversite.fr
-43,University of Paris,France,5,259,914,53,19,85.2,uparis.fr
+42,Sorbonne University,France,4,94,355,89,16,85.3,sorbonne-universite.fr
+43,University of Paris,France,5,259,914,53,19,85.2,u-paris.fr
 44,University of Edinburgh,United Kingdom,5,46,365,58,48,85.2,ed.ac.uk
 45,King's College London,United Kingdom,6,62,362,28,59,85.1,kcl.ac.uk
 46,Washington University in St. Louis,USA,27,115,186,32,44,85,wustl.edu
-47,University of Minnesota  Twin Cities,USA,28,74,308,120,28,84.9,twincities.umn.edu
+47,University of Minnesota - Twin Cities,USA,28,74,308,120,28,84.9,twin-cities.umn.edu
 48,University of British Columbia,Canada,3,99,652,83,30,84.8,ubc.ca
-49,Ludwig Maximilian University of Munich,Germany,1,72,266,66,47,84.7,unimuenchen.de
+49,Ludwig Maximilian University of Munich,Germany,1,72,266,66,47,84.7,uni-muenchen.de
 50,Rutgers University–New Brunswick,USA,29,192,106,24,81,84.6,newbrunswick.rutgers.edu
 51,University of Southern California,USA,30,307,124,27,69,84.6,usc.edu
 52,Vanderbilt University,USA,31,370,88,59,64,84.5,vanderbilt.edu
@@ -57,18 +57,18 @@
 56,"University of California, Davis",USA,35,123,577,62,46,84.2,ucdavis.edu
 57,University of Manchester,United Kingdom,7,103,309,77,49,84.1,manchester.ac.uk
 58,Ohio State University,USA,36,125,247,144,34,84,osu.edu
-59,Free University of Berlin,Germany,2,93,1164,37,76,84,fuberlin.de
+59,Free University of Berlin,Germany,2,93,1164,37,76,84,fu-berlin.de
 60,Brown University,USA,37,70,56,112,131,83.9,brown.edu
 61,Weizmann Institute of Science,Israel,1,17,,45,270,83.8,weizmann.ac.il
 62,Peking University,China,1,350,68,,37,83.8,pku.edu.cn
 63,University of Melbourne,Australia,1,137,371,128,36,83.7,unimelb.edu.au
 64,University of Virginia,USA,38,262,33,184,125,83.6,virginia.edu
 65,Hebrew University of Jerusalem,Israel,2,31,433,35,167,83.6,huji.ac.il
-66,Humboldt University of Berlin,Germany,3,84,,54,70,83.5,huberlin.de
+66,Humboldt University of Berlin,Germany,3,84,,54,70,83.5,hu-berlin.de
 67,University of Zurich,Switzerland,2,98,693,52,72,83.5,uzh.ch
 68,Utrecht University,Netherlands,1,150,375,145,39,83.4,uu.nl
 69,University of Colorado Boulder,USA,39,149,179,47,92,83.3,colorado.edu
-70,Heidelberg University,Germany,4,132,866,80,58,83.3,uniheidelberg.de
+70,Heidelberg University,Germany,4,132,866,80,58,83.3,uni-heidelberg.de
 71,Tsinghua University,China,2,515,98,,35,83.2,tsinghua.edu.cn
 72,University of Pittsburgh,USA,40,250,236,259,32,83.2,pitt.edu
 73,"Texas A&M University, College Station",USA,41,,139,69,95,83.1,tamu.edu
@@ -85,7 +85,7 @@
 84,University of Chinese Academy of Sciences,China,3,,1136,,26,82.5,ucas.ac.cn
 85,University of Florida,USA,47,316,497,140,57,82.5,ufl.edu
 86,National Taiwan University,Taiwan,1,305,38,,114,82.4,ntu.edu.tw
-87,Osaka University,Japan,3,146,61,179,123,82.4,osakau.ac.jp
+87,Osaka University,Japan,3,146,61,179,123,82.4,osaka-u.ac.jp
 88,Uppsala University,Sweden,2,144,496,67,100,82.3,uu.se
 89,University of Arizona,USA,48,474,208,70,101,82.3,arizona.edu
 90,University of Bristol,United Kingdom,9,212,280,74,97,82.2,bristol.ac.uk
@@ -106,7 +106,7 @@
 105,Indiana University Bloomington,USA,52,236,82,175,118,81.6,indiana.edu
 106,University of Queensland,Australia,3,405,598,222,54,81.5,uq.edu.au
 107,Aarhus University,Denmark,2,264,357,152,83,81.5,au.dk
-108,University of Göttingen,Germany,6,51,314,110,161,81.4,unigoettingen.de
+108,University of Göttingen,Germany,6,51,314,110,161,81.4,uni-goettingen.de
 109,University of Utah,USA,53,252,190,129,106,81.4,utah.edu
 110,Shanghai Jiao Tong University,China,4,,213,,56,81.4,sjtu.edu.cn
 111,University of Helsinki,Finland,1,221,1020,167,84,81.3,helsinki.fi
@@ -123,11 +123,11 @@
 122,Tufts University,USA,55,81,62,164,225,80.9,tufts.edu
 123,Australian National University,Australia,5,162,647,79,138,80.9,anu.edu.au
 124,Case Western Reserve University,USA,56,63,262,181,144,80.8,case.edu
-125,University of Tübingen,Germany,7,71,1049,108,150,80.8,unituebingen.de
+125,University of Tübingen,Germany,7,71,1049,108,150,80.8,uni-tuebingen.de
 126,Baylor College of Medicine,USA,57,69,,201,124,80.8,bcm.edu
-127,University of Freiburg,Germany,8,127,215,102,153,80.7,unifreiburg.de
+127,University of Freiburg,Germany,8,127,215,102,153,80.7,uni-freiburg.de
 128,Fudan University,China,6,311,127,,89,80.7,fudan.edu.cn
-129,Goethe University Frankfurt,Germany,9,309,763,30,184,80.7,goetheuniversityfrankfurt.de
+129,Goethe University Frankfurt,Germany,9,309,763,30,184,80.7,goethe-university-frankfurt.de
 130,Monash University,Australia,6,,425,,68,80.6,monash.edu
 131,University of Nottingham,United Kingdom,13,184,450,104,135,80.6,nottingham.ac.uk
 132,Tohoku University,Japan,5,196,154,137,146,80.6,tohoku.ac.jp
@@ -135,11 +135,11 @@
 134,University of Liverpool,United Kingdom,14,135,470,92,152,80.5,liverpool.ac.uk
 135,KTH Royal Institute of Technology,Sweden,3,242,53,176,227,80.5,kth.se
 136,Lund University,Sweden,4,204,612,250,87,80.4,lu.se
-137,Grenoble Alpes University,France,7,258,1056,233,94,80.4,univgrenoblealpes.fr
-138,Nagoya University,Japan,6,90,225,106,186,80.4,nagoyau.ac.jp
+137,Grenoble Alpes University,France,7,258,1056,233,94,80.4,univ-grenoble-alpes.fr
+138,Nagoya University,Japan,6,90,225,106,186,80.4,nagoya-u.ac.jp
 139,Rice University,USA,58,117,91,107,235,80.3,rice.edu
 140,Nanyang Technological University,Singapore,2,,996,,75,80.3,ntu.edu.sg
-141,University of Bonn,Germany,10,133,527,138,142,80.3,unibonn.de
+141,University of Bonn,Germany,10,133,527,138,142,80.3,uni-bonn.de
 142,Tokyo Institute of Technology,Japan,7,314,83,73,262,80.2,titech.ac.jp
 143,University of Iowa,USA,59,143,337,186,132,80.2,uiowa.edu
 144,University of Bern,Switzerland,6,156,1267,166,130,80.2,unibe.ch
@@ -155,17 +155,17 @@
 154,Radboud University,Netherlands,7,434,651,,96,79.9,ru.nl
 155,Queen Mary University of London,United Kingdom,17,112,734,142,164,79.9,qmul.ac.uk
 156,University of Massachusetts Amherst,USA,62,473,264,63,209,79.8,umass.edu
-157,AixMarseille University,France,9,506,940,,98,79.8,univamu.fr
+157,Aix-Marseille University,France,9,506,940,,98,79.8,univ-amu.fr
 158,Technion – Israel Institute of Technology,Israel,4,114,332,64,239,79.8,technion.ac.il
 159,Stockholm University,Sweden,5,277,366,99,177,79.7,su.se
 160,McMaster University,Canada,6,418,743,217,127,79.7,mcmaster.ca
 161,University of Notre Dame,USA,63,301,36,,284,79.7,nd.edu
 162,École nationale d'administration,France,10,,2,,,79.7,ena.fr
-163,Sun Yatsen University,China,8,,538,,109,79.6,sysu.edu.cn
+163,Sun Yat-sen University,China,8,,538,,109,79.6,sysu.edu.cn
 164,University of Padova,Italy,2,453,1501,,108,79.6,unipd.it
 165,Yonsei University,South Korea,2,,112,,147,79.6,yonsei.ac.kr
 166,University of Hong Kong,China,9,,176,,137,79.5,hku.hk
-167,University of Hamburg,Germany,11,278,465,,116,79.5,unihamburg.de
+167,University of Hamburg,Germany,11,278,465,,116,79.5,uni-hamburg.de
 168,University of Montpellier,France,11,450,1123,,110,79.5,umontpellier.fr
 169,University of Gothenburg,Sweden,6,402,409,146,174,79.5,gu.se
 170,Nanjing University,China,10,493,428,,115,79.4,nju.edu.cn
@@ -190,9 +190,9 @@
 189,Université catholique de Louvain,Belgium,3,,517,127,206,79,uclouvain.be
 190,North Carolina State University,USA,70,382,411,182,187,78.9,ncsu.edu
 191,Chinese University of Hong Kong,China,12,406,1230,242,155,78.9,cuhk.edu.hk
-192,University of Münster,Germany,12,429,768,190,178,78.9,unimuenster.de
+192,University of Münster,Germany,12,429,768,190,178,78.9,uni-muenster.de
 193,Lomonosov Moscow State University,Russia,1,95,342,192,223,78.9,msu.ru
-194,University of Cologne,Germany,13,510,267,204,191,78.8,unikoeln.de
+194,University of Cologne,Germany,13,510,267,204,191,78.8,uni-koeln.de
 195,Sungkyunkwan University,South Korea,4,,237,,157,78.8,skku.edu
 196,Autonomous University of Barcelona,Spain,2,,,,140,78.8,uab.cat
 197,Yeshiva University,USA,71,86,,178,230,78.8,yu.edu
@@ -200,13 +200,13 @@
 199,University of Waterloo,Canada,9,,221,200,203,78.7,uwaterloo.ca
 200,Technical University of Denmark,Denmark,3,368,701,187,188,78.7,dtu.dk
 201,University of Georgia,USA,73,392,325,173,212,78.7,uga.edu
-202,University of Würzburg,Germany,14,151,985,228,193,78.6,uniwuerzburg.de
+202,University of Würzburg,Germany,14,151,985,228,193,78.6,uni-wuerzburg.de
 203,University of Ottawa,Canada,10,,461,,156,78.6,uottawa.ca
-204,Johannes Gutenberg University Mainz,Germany,15,,,180,196,78.6,unimainz.de
+204,Johannes Gutenberg University Mainz,Germany,15,,,180,196,78.6,uni-mainz.de
 205,HEC Paris,France,12,,5,,1986,78.6,hec.edu
 206,University of Lisbon,Portugal,1,432,1142,234,173,78.6,ulisboa.pt
 207,University of Missouri–Columbia,USA,74,423,259,86,286,78.5,missouri.edu
-208,Kiel University,Germany,16,343,961,139,228,78.5,unikiel.de
+208,Kiel University,Germany,16,343,961,139,228,78.5,uni-kiel.de
 209,University of Vienna,Austria,1,159,479,155,244,78.5,univie.ac.at
 210,University of Illinois at Chicago,USA,75,476,809,269,159,78.5,uic.edu
 211,Université libre de Bruxelles,Belgium,4,435,289,168,234,78.4,ulb.ac.be
@@ -215,16 +215,16 @@
 214,Georgetown University,USA,76,334,54,,313,78.4,georgetown.edu
 215,University of Miami,USA,77,,248,,172,78.4,miami.edu
 216,Hokkaido University,Japan,9,347,298,161,245,78.3,hokudai.ac.jp
-217,TU Dresden,Germany,17,,,,158,78.3,tudresden.de
-218,RWTH Aachen University,Germany,18,494,235,,180,78.3,rwthaachen.de
-219,Kyushu University,Japan,10,272,108,,219,78.3,kyushuu.ac.jp
+217,TU Dresden,Germany,17,,,,158,78.3,tu-dresden.de
+218,RWTH Aachen University,Germany,18,494,235,,180,78.3,rwth-aachen.de
+219,Kyushu University,Japan,10,272,108,,219,78.3,kyushu-u.ac.jp
 220,The Scripps Research Institute,USA,78,,,71,295,78.2,scripps.edu
 221,University of Adelaide,Australia,8,197,783,,165,78.2,adelaide.edu.au
 222,Wake Forest University,USA,79,,70,,278,78.2,wfu.edu
 223,London School of Hygiene & Tropical Medicine,United Kingdom,21,270,,172,232,78.2,lshtm.ac.uk
 224,University of Erlangen–Nuremberg,Germany,19,417,926,,163,78.2,fau.eu
 225,Harbin Institute of Technology,China,13,,444,,169,78.1,hit.edu.cn
-226,Claude Bernard University Lyon 1,France,13,,1034,,162,78.1,univlyon1.fr
+226,Claude Bernard University Lyon 1,France,13,,1034,,162,78.1,univ-lyon1.fr
 227,P.N. Lebedev Physical Institute of the Russian Academy of Sciences,Russia,2,27,,103,533,78.1,lebedev.ru
 228,University of Leicester,United Kingdom,22,,,96,277,78.1,le.ac.uk
 229,Complutense University of Madrid,Spain,3,191,137,215,273,78.1,ucm.es
@@ -236,13 +236,13 @@
 235,Hong Kong University of Science and Technology,China,15,,494,143,269,77.9,ust.hk
 236,University of Sussex,United Kingdom,23,106,438,81,350,77.9,sussex.ac.uk
 237,Charles University in Prague,Czech Republic,1,326,1309,,175,77.9,cuni.cz
-238,Paul Sabatier University,France,14,,,,171,77.9,univtlse3.fr
+238,Paul Sabatier University,France,14,,,,171,77.9,univ-tlse3.fr
 239,Karlsruhe Institute of Technology,Germany,20,460,296,,192,77.9,kit.edu
 240,Maastricht University,Netherlands,9,,1424,,179,77.8,maastrichtuniversity.nl
 241,Shandong University,China,16,,1111,,182,77.8,sdu.edu.cn
 242,"University of California, Riverside",USA,82,365,,219,217,77.8,ucr.edu
 243,Wuhan University,China,17,,392,,190,77.8,whu.edu.cn
-244,University of Bordeaux,France,15,,1295,,183,77.8,ubordeaux.fr
+244,University of Bordeaux,France,15,,1295,,183,77.8,u-bordeaux.fr
 245,University of Naples Federico II,Italy,6,,853,,185,77.7,unina.it
 246,"University of California, Santa Cruz",USA,83,374,,174,252,77.7,ucsc.edu
 247,Virginia Commonwealth University,USA,84,,1000,111,291,77.7,vcu.edu
@@ -269,7 +269,7 @@
 268,University of Cape Town,South Africa,1,170,278,,246,77.3,uct.ac.za
 269,University of Genoa,Italy,9,508,1172,225,261,77.3,unige.it
 270,Oregon State University,USA,89,227,537,226,274,77.3,oregonstate.edu
-271,Leipzig University,Germany,21,203,,197,282,77.3,unileipzig.de
+271,Leipzig University,Germany,21,203,,197,282,77.3,uni-leipzig.de
 272,University of Connecticut,USA,90,472,387,,229,77.2,uconn.edu
 273,Virginia Tech,USA,91,475,321,,236,77.2,vt.edu
 274,Florida State University,USA,92,,553,,222,77.2,fsu.edu
@@ -279,7 +279,7 @@
 278,City University of Hong Kong,China,24,,1053,,221,77.1,cityu.edu.hk
 279,"University of Maryland, Baltimore",USA,94,,,,220,77.1,umaryland.edu
 280,Autonomous University of Madrid,Spain,4,,909,,226,77.1,uam.es
-281,University of Lorraine,France,16,518,421,171,307,77.1,univlorraine.fr
+281,University of Lorraine,France,16,518,421,171,307,77.1,univ-lorraine.fr
 282,University of Liège,Belgium,5,186,,113,347,77.1,uliege.be
 283,University College Dublin,Ireland,2,,272,,256,77,ucd.ie
 284,National Autonomous University of Mexico,Mexico,1,394,1410,241,268,77,unam.mx
@@ -302,17 +302,17 @@
 301,Queen's University,Canada,13,505,420,203,310,76.7,queensu.ca
 302,George Washington University,USA,102,400,199,,287,76.7,gwu.edu
 303,University of Delaware,USA,103,373,668,161,332,76.7,udel.edu
-304,University of Lille,France,17,,,,253,76.7,univlille.fr
+304,University of Lille,France,17,,,,253,76.7,univ-lille.fr
 305,King Abdulaziz University,Saudi Arabia,1,,1294,,255,76.7,kau.edu.sa
 306,"Soochow University, China",China,29,,,,254,76.7,suda.edu.cn
-307,University of DuisburgEssen,Germany,22,,993,,258,76.6,unidue.de
+307,University of Duisburg-Essen,Germany,22,,993,,258,76.6,uni-due.de
 308,Washington State University,USA,104,,874,183,318,76.6,wsu.edu
 309,University of Nebraska–Lincoln,USA,105,172,395,,285,76.6,unl.edu
 310,University of Rome Tor Vergata,Italy,11,,1484,,264,76.6,uniroma2.it
 311,International Institute for Management Development,Switzerland,8,,8,,,76.6,imd.org
-312,Ruhr University Bochum,Germany,23,,406,,275,76.6,ruhrunibochum.de
+312,Ruhr University Bochum,Germany,23,,406,,275,76.6,ruhr-uni-bochum.de
 313,Dalian University of Technology,China,30,,240,,293,76.6,dlut.edu.cn
-314,Ulm University,Germany,24,,954,,272,76.5,uniulm.de
+314,Ulm University,Germany,24,,954,,272,76.5,uni-ulm.de
 315,Durham University,United Kingdom,27,338,311,,289,76.5,dur.ac.uk
 316,London School of Economics and Political Science,United Kingdom,28,248,79,253,428,76.5,lse.ac.uk
 317,China Europe International Business School,China,31,,10,,,76.5,ceibs.edu
@@ -320,34 +320,34 @@
 319,Northeastern University,USA,106,323,171,,324,76.5,northeastern.edu
 320,University of York,United Kingdom,29,268,,,281,76.4,york.ac.uk
 321,Umeå University,Sweden,7,,1350,267,288,76.4,umu.se
-322,Friedrich Schiller University Jena,Germany,25,519,,255,303,76.4,unijena.de
+322,Friedrich Schiller University Jena,Germany,25,519,,255,303,76.4,uni-jena.de
 323,Hanyang University,South Korea,6,,192,,316,76.4,hanyang.ac.kr
 324,Beihang University,China,32,,928,,280,76.4,buaa.edu.cn
 325,National Cheng Kung University,Taiwan,2,,110,,354,76.4,ncku.edu.tw
 326,King Abdullah University of Science and Technology,Saudi Arabia,2,,,158,368,76.4,kaust.edu.sa
-327,University of South Carolina  Columbia,USA,107,,531,,296,76.3,sc.edu
+327,University of South Carolina - Columbia,USA,107,,531,,296,76.3,sc.edu
 328,Chinese Academy of Medical Sciences & Peking Union Medical College,China,33,,,,290,76.3,cams.ac.cn
-329,University of Düsseldorf,Germany,26,213,,,302,76.3,uniduesseldorf.de
+329,University of Düsseldorf,Germany,26,213,,,302,76.3,uni-duesseldorf.de
 330,University of Dundee,United Kingdom,30,492,1097,147,401,76.3,dundee.ac.uk
 331,Dalhousie University,Canada,14,313,310,,312,76.3,dal.ca
-332,Hannover Medical School,Germany,27,,,267,305,76.3,mhhannover.de
+332,Hannover Medical School,Germany,27,,,267,305,76.3,mh-hannover.de
 333,University of Granada,Spain,6,,,,298,76.2,ugr.es
-334,Versailles SaintQuentinenYvelines University,France,18,,,,299,76.2,uvsq.fr
+334,Versailles Saint-Quentin-en-Yvelines University,France,18,,,,299,76.2,uvsq.fr
 335,Simon Fraser University,Canada,15,,1150,,300,76.2,sfu.ca
 336,Polytechnic University of Milan,Italy,12,356,457,193,373,76.2,polimi.it
-337,University of St Andrews,United Kingdom,31,296,754,224,352,76.2,standrews.ac.uk
+337,University of St Andrews,United Kingdom,31,296,754,224,352,76.2,st-andrews.ac.uk
 338,Eindhoven University of Technology,Netherlands,11,,882,227,344,76.2,tue.nl
 339,Aalto University,Finland,2,,210,,336,76.2,aalto.fi
 340,École des ponts ParisTech,France,19,168,25,,972,76.1,enpc.fr
 341,University of Otago,New Zealand,2,,779,,308,76.1,otago.ac.nz
 342,Beijing Normal University,China,34,,1287,,306,76.1,bnu.edu.cn
 343,City College of New York,USA,108,24,427,,768,76.1,ccny.cuny.edu
-344,University of MilanoBicocca,Italy,13,,,,309,76.1,unimib.it
+344,University of Milano-Bicocca,Italy,13,,,,309,76.1,unimib.it
 345,University of Oregon,USA,109,141,,229,386,76.1,uoregon.edu
 346,University of Belgrade,Serbia,1,440,,,311,76.1,bg.ac.rs
 347,Drexel University,USA,110,,273,232,390,76,drexel.edu
 348,Lancaster University,United Kingdom,32,,582,,320,76,lancaster.ac.uk
-349,BenGurion University of the Negev,Israel,5,,,211,367,76,bgu.ac.il
+349,Ben-Gurion University of the Negev,Israel,5,,,211,367,76,bgu.ac.il
 350,Queen's University Belfast,United Kingdom,33,389,877,,317,76,qub.ac.uk
 351,University of Campinas,Brazil,2,,,,314,76,unicamp.br
 352,Temple University,USA,111,,648,,319,76,temple.edu
@@ -367,12 +367,12 @@
 366,University of Victoria,Canada,16,,,,335,75.8,uvic.ca
 367,University of Innsbruck,Austria,3,,751,244,380,75.8,uibk.ac.at
 368,Medical University of South Carolina,USA,112,,,,338,75.7,musc.edu
-369,University of Marburg,Germany,28,202,,223,417,75.7,unimarburg.de
-370,Technical University of Berlin,Germany,29,180,592,,359,75.7,tuberlin.de
+369,University of Marburg,Germany,28,202,,223,417,75.7,uni-marburg.de
+370,Technical University of Berlin,Germany,29,180,592,,359,75.7,tu-berlin.de
 371,Hunan University,China,37,,623,,345,75.7,hnu.edu.cn
 372,Pontifical Catholic University of Chile,Chile,1,495,196,,395,75.7,uc.cl
-373,Justus Liebig University Giessen,Germany,30,,,,339,75.7,unigiessen.de
-374,University of Regensburg,Germany,31,,852,,342,75.7,uniregensburg.de
+373,Justus Liebig University Giessen,Germany,30,,,,339,75.7,uni-giessen.de
+374,University of Regensburg,Germany,31,,852,,342,75.7,uni-regensburg.de
 375,Jagiellonian University,Poland,1,,,,341,75.7,uj.edu.pl
 376,Kurchatov Institute,Russia,3,,,,343,75.6,nrcki.ru
 377,National Tsing Hua University,Taiwan,3,369,845,,349,75.6,nthu.edu.tw
@@ -382,11 +382,11 @@
 381,University of Electronic Science and Technology of China,China,39,,721,,357,75.6,uestc.edu.cn
 382,King Saud University,Saudi Arabia,3,,423,,364,75.6,ksu.edu.sa
 383,Kyung Hee University,South Korea,8,,1013,,355,75.5,khu.ac.kr
-384,University of Ljubljana,Slovenia,1,,,,356,75.5,unilj.si
+384,University of Ljubljana,Slovenia,1,,,,356,75.5,uni-lj.si
 385,"University of Oklahoma, Norman",USA,113,,388,,370,75.5,ou.edu
 386,University of Newcastle,Australia,11,,1228,,358,75.5,newcastle.edu.au
 387,Indiana University – Purdue University Indianapolis,USA,114,,917,,360,75.5,iupui.edu
-388,Tampere University,Finland,4,,459,,375,75.5,tuni.fi/fi/tutustumeihin/yliopisto
+388,Tampere University,Finland,4,,459,,375,75.5,tuni.fi/fi/tutustu-meihin/yliopisto
 389,Griffith University,Australia,12,,1276,,361,75.5,griffith.edu.au
 390,"University at Albany, SUNY",USA,115,216,787,208,443,75.5,albany.edu
 391,Deakin University,Australia,13,,938,,362,75.4,deakin.edu.au
@@ -411,44 +411,44 @@
 410,Aristotle University of Thessaloniki,Greece,2,,,,382,75.2,auth.gr
 411,Stockholm School of Economics,Sweden,11,,20,261,1768,75.2,hhs.se
 412,Queensland University of Technology,Australia,16,,1133,,387,75.2,qut.edu.au
-413,Hiroshima University,Japan,12,,1233,,388,75.2,hiroshimau.ac.jp
+413,Hiroshima University,Japan,12,,1233,,388,75.2,hiroshima-u.ac.jp
 414,Thomas Jefferson University,USA,118,,,,389,75.2,jefferson.edu
 415,Indian Institute of Management Ahmedabad,India,1,377,13,,,75.1,iima.ac.in
 416,Chongqing University,China,42,,584,,400,75.1,cqu.edu.cn
 417,Vienna University of Technology,Austria,4,480,645,,396,75.1,tuwien.ac.at
 418,University of Twente,Netherlands,12,,1043,,392,75.1,utwente.nl
 419,University of Tasmania,Australia,17,,,,391,75.1,utas.edu.au
-420,University of Rennes 1,France,20,,,,394,75.1,univrennes1.fr
+420,University of Rennes 1,France,20,,,,394,75.1,univ-rennes1.fr
 421,São Paulo State University,Brazil,4,,,,397,75.1,unesp.br
 422,University of Colorado Denver,USA,119,,,,399,75.1,ucdenver.edu
 423,Saint Louis University,USA,120,,274,187,512,75,slu.edu
-424,University of Côte d'Azur,France,21,,,,402,75,univcotedazur.fr
+424,University of Côte d'Azur,France,21,,,,402,75,univ-cotedazur.fr
 425,Tulane University,USA,121,239,351,,426,75,tulane.edu
 426,University of Texas Health Science Center at San Antonio,USA,122,,,,403,75,uthscsa.edu
 427,Texas Tech University,USA,123,,467,,416,75,ttu.edu
 428,University of Clermont Auvergne,France,22,,,,405,75,uca.fr
 429,Stellenbosch University,South Africa,3,,180,,453,75,sun.ac.za
-430,University of Stuttgart,Germany,32,128,286,,462,75,unistuttgart.de
+430,University of Stuttgart,Germany,32,128,286,,462,75,uni-stuttgart.de
 431,University of Oulu,Finland,5,,677,,412,74.9,oulu.fi
-432,VitaSalute San Raffaele University,Italy,17,,,,406,74.9,unisr.it
+432,Vita-Salute San Raffaele University,Italy,17,,,,406,74.9,unisr.it
 433,University of Navarra,Spain,10,,104,251,546,74.9,unav.edu
 434,University of Trieste,Italy,18,,1040,,408,74.9,units.it
 435,University of Eastern Finland,Finland,6,,,,407,74.9,uef.fi
 436,Catholic University of the Sacred Heart,Italy,19,,1179,,409,74.9,ucsc.it
-437,Kansas State University,USA,124,355,475,,422,74.9,kstate.edu
+437,Kansas State University,USA,124,355,475,,422,74.9,k-state.edu
 438,University of Saskatchewan,Canada,18,280,680,,420,74.9,usask.ca
-439,Okayama University,Japan,13,344,599,,419,74.8,okayamau.ac.jp
+439,Okayama University,Japan,13,344,599,,419,74.8,okayama-u.ac.jp
 440,Chonnam National University,South Korea,11,,1246,,410,74.8,jnu.ac.kr
 441,Medical College of Wisconsin,USA,125,,,,411,74.8,mcw.edu
 442,University of Chile,Chile,2,,560,,421,74.8,uchile.cl
 443,University of Mississippi,USA,126,484,,,414,74.8,olemiss.edu
-444,Kobe University,Japan,14,295,455,,429,74.8,kobeu.ac.jp
+444,Kobe University,Japan,14,295,455,,429,74.8,kobe-u.ac.jp
 445,China University of Geosciences,China,43,,1061,,418,74.8,cug.edu.cn & cugb.edu.cn
 446,University of Vermont,USA,127,,488,,427,74.8,uvm.edu
 447,University of Bath,United Kingdom,34,,583,,423,74.8,bath.ac.uk
 448,University of Science and Technology Beijing,China,44,,217,,458,74.7,ustb.edu.cn
 449,Pusan National University,South Korea,12,,504,,430,74.7,pusan.ac.kr
-450,Martin Luther University HalleWittenberg,Germany,33,425,,246,452,74.7,unihalle.de
+450,Martin Luther University Halle-Wittenberg,Germany,33,425,,246,452,74.7,uni-halle.de
 451,University of Zaragoza,Spain,11,485,1018,,424,74.7,unizar.es
 452,George Mason University,USA,128,,1358,237,471,74.7,gmu.edu
 453,National Chiao Tung University,Taiwan,4,,291,,448,74.7,nctu.edu.tw
@@ -465,30 +465,30 @@
 464,Scuola Normale Superiore di Pisa,Italy,22,77,,239,581,74.6,sns.it
 465,University of Trento,Italy,23,,,,437,74.5,unitn.it
 466,Florida International University,USA,130,,1321,,439,74.5,fiu.edu
-467,TU Darmstadt,Germany,34,337,695,,447,74.5,tudarmstadt.de
+467,TU Darmstadt,Germany,34,337,695,,447,74.5,tu-darmstadt.de
 468,University of Central Florida,USA,131,,1077,,441,74.5,ucf.edu
-469,University of Alabama  Tuscaloosa,USA,132,444,229,,482,74.5,ua.edu
+469,University of Alabama - Tuscaloosa,USA,132,444,229,,482,74.5,ua.edu
 470,Zhengzhou University,China,47,,998,,442,74.5,zzu.edu.cn
 471,Syracuse University,USA,133,166,224,,510,74.5,syracuse.edu
 472,James Cook University,Australia,18,,1067,,444,74.5,jcu.edu.au
-473,Hitotsubashi University,Japan,15,,19,,,74.5,hitu.ac.jp
-474,University of Rostock,Germany,35,430,,,445,74.4,unirostock.de
+473,Hitotsubashi University,Japan,15,,19,,,74.5,hit-u.ac.jp
+474,University of Rostock,Germany,35,430,,,445,74.4,uni-rostock.de
 475,Colorado School of Mines,USA,134,,58,,735,74.4,mines.edu
 476,Federal University of Rio Grande do Sul,Brazil,5,,1271,,446,74.4,ufrgs.br
-477,University of KwaZuluNatal,South Africa,4,498,284,,474,74.4,ukzn.ac.za
+477,University of KwaZulu-Natal,South Africa,4,498,284,,474,74.4,ukzn.ac.za
 478,University of Hull,United Kingdom,36,190,260,135,676,74.4,hull.ac.uk
 479,Lehigh University,USA,135,165,67,,728,74.4,lehigh.edu
-480,Savoie Mont Blanc University,France,23,,,,449,74.4,univsmb.fr
+480,Savoie Mont Blanc University,France,23,,,,449,74.4,univ-smb.fr
 481,University of Tennessee Health Science Center,USA,136,,,,450,74.4,uthsc.edu
 482,Rovira i Virgili University,Spain,14,,,,451,74.4,urv.cat
 483,University of Oviedo,Spain,15,,962,,455,74.4,uniovi.es
 484,Shanghai University,China,48,,973,,457,74.3,shu.edu.cn
-485,Ioffe PhysicalTechnical Institute of the Russian Academy of Sciences,Russia,4,36,,212,897,74.3,ioffe.ru
+485,Ioffe Physical-Technical Institute of the Russian Academy of Sciences,Russia,4,36,,212,897,74.3,ioffe.ru
 486,University of Hawaii at Manoa,USA,137,366,1154,,459,74.3,manoa.hawaii.edu
 487,Polytechnic University of Valencia,Spain,16,,,,454,74.3,upv.es
 488,University of Tromsø – The Arctic University of Norway,Norway,4,,,,456,74.3,uit.no
 489,Baylor University,USA,138,,367,,475,74.3,baylor.edu
-490,École normale supérieure de Lyon,France,24,383,,263,476,74.3,enslyon.fr
+490,École normale supérieure de Lyon,France,24,383,,263,476,74.3,ens-lyon.fr
 491,Oklahoma State University,USA,139,,491,,473,74.3,okstate.edu
 492,Federal University of Minas Gerais,Brazil,6,,600,,466,74.3,ufmg.br
 493,Chulalongkorn University,Thailand,1,,117,,568,74.2,chula.ac.th
@@ -498,49 +498,49 @@
 497,University of Ferrara,Italy,24,,,,464,74.2,unife.it
 498,"Royal Holloway, University of London",United Kingdom,37,393,921,213,541,74.2,royalholloway.ac.uk
 499,University of Canterbury,New Zealand,3,336,384,230,550,74.2,canterbury.ac.nz
-500,Leibniz University Hannover,Germany,36,,907,,468,74.2,unihannover.de
+500,Leibniz University Hannover,Germany,36,,907,,468,74.2,uni-hannover.de
 501,University of Modena and Reggio Emilia,Italy,25,,992,,467,74.2,unimore.it
 502,Nanjing University of Aeronautics and Astronautics,China,50,,1117,,469,74.1,nuaa.edu.cn
 503,West Virginia University,USA,142,,348,,494,74.1,wvu.edu
-504,TU Dortmund,Germany,37,,,,470,74.1,tudortmund.de
+504,TU Dortmund,Germany,37,,,,470,74.1,tu-dortmund.de
 505,Nanjing Agricultural University,China,51,,1470,,472,74.1,njau.edu.cn
 506,University of Surrey,United Kingdom,38,403,443,,489,74.1,surrey.ac.uk
 507,Nanjing University of Science and Technology,China,52,,685,,477,74.1,njust.edu.cn
-508,BarIlan University,Israel,6,,827,,478,74.1,biu.ac.il
+508,Bar-Ilan University,Israel,6,,827,,478,74.1,biu.ac.il
 509,University College Cork,Ireland,3,,888,,480,74.1,ucc.ie
 510,La Trobe University,Australia,19,,1173,,479,74.1,latrobe.edu.au
 511,Georgia State University,USA,143,,670,,490,74.1,gsu.edu
 512,Beijing University of Chemical Technology,China,53,,1333,,481,74,buct.edu.cn
-513,National YangMing University,Taiwan,5,,,,484,74,ym.edu.tw
+513,National Yang-Ming University,Taiwan,5,,,,484,74,ym.edu.tw
 514,Western Sydney University,Australia,20,,,,485,74,westernsydney.edu.au
 515,University of Verona,Italy,26,,,,486,74,univr.it
 516,University of Tartu,Estonia,1,455,,,488,74,ut.ee
 517,University of Zagreb,Croatia,1,,1430,,487,74,unizg.hr
 518,Nanjing Medical University,China,54,,,,491,74,njmu.edu.cn
-519,University of Potsdam,Germany,38,,,,492,74,unipotsdam.de
+519,University of Potsdam,Germany,38,,,,492,74,uni-potsdam.de
 520,NOVA University of Lisbon,Portugal,4,,,,493,74,unl.pt
 521,University of South Australia,Australia,21,,447,,511,74,unisa.edu.au
-522,Medical University of Innsbruck,Austria,5,,,,495,73.9,imed.ac.at
+522,Medical University of Innsbruck,Austria,5,,,,495,73.9,i-med.ac.at
 523,Bocconi University,Italy,27,,46,256,1014,73.9,unibocconi.eu
 524,"Institute of Cancer Research, University of London",United Kingdom,39,187,,,513,73.9,icr.ac.uk
-525,University of Bremen,Germany,39,,,,496,73.9,unibremen.de
+525,University of Bremen,Germany,39,,,,496,73.9,uni-bremen.de
 526,San Diego State University,USA,144,321,471,,515,73.9,sdsu.edu
 527,Carleton University,Canada,20,,1351,,498,73.9,carleton.ca
 528,Huazhong Agricultural University,China,55,,,,497,73.9,hzau.edu.cn
 529,Novosibirsk State University,Russia,5,401,1338,,499,73.9,nsu.ru
 530,Rensselaer Polytechnic Institute,USA,145,416,162,,585,73.9,rpi.edu
 531,Xidian University,China,56,359,1072,,504,73.8,xidian.edu.cn
-532,University of Nantes,France,25,,,,500,73.8,univnantes.fr
+532,University of Nantes,France,25,,,,500,73.8,univ-nantes.fr
 533,Mayo Clinic College of Medicine and Science,USA,146,,,,501,73.8,college.mayo.edu
 534,Polytechnic University of Madrid,Spain,17,478,671,,508,73.8,upm.es
 535,Medical University of Graz,Austria,6,,,,502,73.8,medunigraz.at
-536,Chiba University,Japan,16,,,,503,73.8,chibau.ac.jp
+536,Chiba University,Japan,16,,,,503,73.8,chiba-u.ac.jp
 537,Ewha Womans University,South Korea,13,,,,505,73.8,ewha.ac.kr
-538,University of Graz,Austria,7,375,1151,157,659,73.8,unigraz.at
-539,Institut Agro,France,26,,,,506,73.8,institutagro.fr
+538,University of Graz,Austria,7,375,1151,157,659,73.8,uni-graz.at
+539,Institut Agro,France,26,,,,506,73.8,institut-agro.fr
 540,Saint Petersburg University,Russia,6,155,458,,548,73.8,spbu.ru
 541,Flinders University,Australia,22,461,,,507,73.8,flinders.edu.au
-542,University of Arkansas  Fayetteville,USA,147,271,389,,534,73.7,uark.edu
+542,University of Arkansas - Fayetteville,USA,147,271,389,,534,73.7,uark.edu
 543,University of Tehran,Iran,2,422,,,509,73.7,ut.ac.ir
 544,University of Delhi,India,3,521,143,,602,73.7,du.ac.in
 545,Auburn University,USA,148,,241,,553,73.7,auburn.edu
@@ -566,7 +566,7 @@
 565,University of Wisconsin–Milwaukee,USA,153,283,451,,545,73.5,uwm.edu
 566,University of Texas at Arlington,USA,154,,927,,530,73.5,uta.edu
 567,Brunel University London,United Kingdom,40,,495,,540,73.5,brunel.ac.uk
-568,University of Burgundy,France,27,161,,,551,73.5,ubourgogne.fr
+568,University of Burgundy,France,27,161,,,551,73.5,u-bourgogne.fr
 569,"Northeastern University, China",China,59,,439,,544,73.5,neu.edu.cn
 570,University of Palermo,Italy,28,,,,532,73.5,unipa.it
 571,Middle East Technical University,Turkey,1,,315,,561,73.5,metu.edu.tr
@@ -590,19 +590,19 @@
 589,Sciences Po,France,28,,60,61,1844,73.3,sciencespo.fr
 590,Polytechnic University of Turin,Italy,29,,815,,555,73.3,polito.it
 591,University of Aveiro,Portugal,6,,,,552,73.3,ua.pt
-592,Toulouse INP,France,29,,245,,607,73.3,inptoulouse.fr
+592,Toulouse INP,France,29,,245,,607,73.3,inp-toulouse.fr
 593,University of Udine,Italy,30,,,,554,73.3,uniud.it
 594,University of Salerno,Italy,31,,,,556,73.2,unisa.it
 595,Federal University of São Paulo,Brazil,7,,,,557,73.2,unifesp.br
 596,"St George's, University of London",United Kingdom,42,,,,558,73.2,sgul.ac.uk
-597,Bielefeld University,Germany,40,,1452,,560,73.2,unibielefeld.de
+597,Bielefeld University,Germany,40,,1452,,560,73.2,uni-bielefeld.de
 598,Cinvestav,Mexico,2,,,,562,73.2,cinvestav.mx
 599,University of Eastern Piedmont,Italy,32,,,,564,73.2,uniupo.it
 600,University of Plymouth,United Kingdom,43,,1458,,565,73.2,plymouth.ac.uk
 601,China University of Petroleum,China,61,,625,,578,73.2,upc.edu.cn & cup.edu.cn
 602,University of Cagliari,Italy,33,,,,566,73.2,unica.it
 603,Southwest University,China,62,481,1409,,567,73.2,swu.edu.cn
-604,Institut national des sciences appliquées de Lyon,France,30,,,,569,73.2,insalyon.fr
+604,Institut national des sciences appliquées de Lyon,France,30,,,,569,73.2,insa-lyon.fr
 605,Utah State University,USA,159,351,846,,576,73.1,usu.edu
 606,University of Brescia,Italy,34,,,,570,73.1,unibs.it
 607,Comenius University in Bratislava,Slovak Republic,1,,,,571,73.1,uniba.sk
@@ -614,11 +614,11 @@
 613,University of Québec at Montreal,Canada,23,,937,,579,73.1,uqam.ca
 614,Catholic University of Korea,South Korea,15,,,,577,73.1,catholic.ac.kr
 615,Tilburg University,Netherlands,13,,363,,601,73.1,tilburguniversity.edu
-616,University of Bayreuth,Germany,41,,1401,,580,73,unibayreuth.de
+616,University of Bayreuth,Germany,41,,1401,,580,73,uni-bayreuth.de
 617,Jeonbuk National University,South Korea,16,,,,582,73,jbnu.ac.kr
-618,Saarland University,Germany,42,,463,,597,73,unisaarland.de
+618,Saarland University,Germany,42,,463,,597,73,uni-saarland.de
 619,National University of La Plata,Argentina,2,,1404,,583,73,unlp.edu.ar
-620,University of Konstanz,Germany,43,,,,584,73,unikonstanz.de
+620,University of Konstanz,Germany,43,,,,584,73,uni-konstanz.de
 621,Central China Normal University,China,66,,1118,,586,73,ccnu.edu.cn
 622,"National University of Ireland, Galway",Ireland,4,263,1436,,596,73,nuigalway.ie
 623,University of La Laguna,Spain,18,,,,590,73,ull.es
@@ -648,12 +648,12 @@
 647,Massey University,New Zealand,4,,949,,620,72.8,massey.ac.nz
 648,Beijing Jiaotong University,China,71,,1300,,617,72.8,njtu.edu.cn
 649,University of Oklahoma Health Sciences Center,USA,165,,,,619,72.8,ouhsc.edu
-650,Shinshu University,Japan,18,,1392,,621,72.8,shinshuu.ac.jp
-651,Kanazawa University,Japan,19,,627,,634,72.7,kanazawau.ac.jp
+650,Shinshu University,Japan,18,,1392,,621,72.8,shinshu-u.ac.jp
+651,Kanazawa University,Japan,19,,627,,634,72.7,kanazawa-u.ac.jp
 652,North China Electric Power University,China,72,,305,,655,72.7,ncepu.edu.cn
 653,University of Texas at San Antonio,USA,166,,,,622,72.7,utsa.edu
 654,University of Campania Luigi Vanvitelli,Italy,35,,,,623,72.7,unicampania.it
-655,ChungAng University,South Korea,18,,1062,,627,72.7,cau.ac.kr
+655,Chung-Ang University,South Korea,18,,1062,,627,72.7,cau.ac.kr
 656,Swinburne University of Technology,Australia,24,,,,625,72.7,swinburne.edu.au
 657,Southern Medical University,China,73,,,,626,72.7,fimmu.com
 658,Loughborough University,United Kingdom,44,,,269,640,72.7,lboro.ac.uk
@@ -665,8 +665,8 @@
 664,University of Crete,Greece,4,,,,629,72.6,uoc.gr
 665,University of Ioannina,Greece,5,,,,630,72.6,uoi.gr
 666,Semmelweis University,Hungary,2,,,,633,72.6,semmelweis.hu
-667,University of Szeged,Hungary,3,,,194,753,72.6,uszeged.hu
-668,University of Greifswald,Germany,44,,,248,687,72.6,unigreifswald.de
+667,University of Szeged,Hungary,3,,,194,753,72.6,u-szeged.hu
+668,University of Greifswald,Germany,44,,,248,687,72.6,uni-greifswald.de
 669,Courtauld Institute of Art ,United Kingdom,46,15,,,,72.6,courtauld.ac.uk
 670,University of Málaga,Spain,20,,,,636,72.6,uma.es
 671,University of Fribourg,Switzerland,10,,334,,671,72.6,unifr.ch
@@ -678,27 +678,27 @@
 677,Inha University,South Korea,20,,697,,649,72.5,inha.ac.kr
 678,Istanbul Technical University,Turkey,6,,796,,645,72.5,itu.edu.tr
 679,University of Alaska Fairbanks,USA,169,437,762,,648,72.5,uaf.edu
-680,University of MissouriKansas City,USA,170,467,554,,654,72.5,umkc.edu
+680,University of Missouri-Kansas City,USA,170,467,554,,654,72.5,umkc.edu
 681,"Birkbeck, University of London",United Kingdom,47,237,,170,842,72.5,bbk.ac.uk
 682,Nanjing Normal University,China,75,,1005,,644,72.5,njnu.edu.cn
 683,Otto von Guericke University Magdeburg,Germany,45,,,,641,72.5,ovgu.de
 684,University of Debrecen,Hungary,4,,,,642,72.5,unideb.hu
 685,Oswaldo Cruz Foundation,Brazil,9,,,,643,72.5,fiocruz.br
 686,"University of Maine, Orono",USA,171,483,,121,894,72.5,umaine.edu
-687,Yokohama City University,Japan,21,,214,,717,72.4,yokohamacu.ac.jp
+687,Yokohama City University,Japan,21,,214,,717,72.4,yokohama-cu.ac.jp
 688,Donghua University,China,76,,1218,,647,72.4,dhu.edu.cn
 689,Roma Tre University,Italy,37,,,,646,72.4,uniroma3.it
-690,HeriotWatt University,United Kingdom,48,,533,,663,72.4,hw.ac.uk
+690,Heriot-Watt University,United Kingdom,48,,533,,663,72.4,hw.ac.uk
 691,Victoria University of Wellington,New Zealand,5,367,710,,656,72.4,victoria.ac.nz
 692,"University of Maryland, Baltimore County",USA,172,,,235,736,72.4,umbc.edu
-693,Kumamoto University,Japan,22,,628,,665,72.4,kumamotou.ac.jp
+693,Kumamoto University,Japan,22,,628,,665,72.4,kumamoto-u.ac.jp
 694,Taipei Medical University,Taiwan,10,,,,650,72.4,tmu.edu.tw
 695,Hong Kong Baptist University,China,77,,1394,,652,72.4,hkbu.edu.hk
 696,Vilnius University,Lithuania,1,,,,653,72.4,vu.lt
 697,Indian Institute of Technology Kharagpur,India,8,,549,,672,72.4,iitkgp.ac.in
 698,Mississippi State University,USA,173,328,412,,694,72.4,msstate.edu
 699,Hefei University of Technology,China,78,,812,,660,72.4,hfut.edu.cn
-700,University of Angers,France,31,,,,657,72.3,univangers.fr
+700,University of Angers,France,31,,,,657,72.3,univ-angers.fr
 701,Bangor University,United Kingdom,49,200,843,247,744,72.3,bangor.ac.uk
 702,Augusta University,USA,174,,,,658,72.3,augusta.edu
 703,Tianjin Medical University,China,79,,,,661,72.3,tijmu.edu.cn
@@ -708,37 +708,37 @@
 707,Isfahan University of Technology,Iran,5,,,,666,72.3,iut.ac.ir
 708,SUNY Downstate Medical Center,USA,175,,,149,892,72.3,downstate.edu
 709,King Fahd University of Petroleum and Minerals,Saudi Arabia,4,,113,,836,72.3,kfupm.edu.sa
-710,Niigata University,Japan,23,,747,,674,72.3,niigatau.ac.jp
+710,Niigata University,Japan,23,,747,,674,72.3,niigata-u.ac.jp
 711,"University of North Texas, Denton",USA,176,,804,,673,72.3,unt.edu
 712,Federal University of Santa Catarina,Brazil,10,,1490,,669,72.2,ufsc.br
 713,American University of Beirut,Lebanon,1,251,191,,773,72.2,aub.edu.lb
 714,"Graduate Faculty, General Research Institute For Nonferrous Metals",China,82,,24,,,72.2,grinm.com/p346.aspx
-715,University of Western Brittany,France,32,,,,670,72.2,univbrest.fr
+715,University of Western Brittany,France,32,,,,670,72.2,univ-brest.fr
 716,University of Macau,China,83,,482,,695,72.2,umac.mo
 717,Warsaw University of Technology,Poland,4,357,1140,,677,72.2,pw.edu.pl
 718,International School for Advanced Studies,Italy,38,,,,675,72.2,sissa.it
-719,Kitasato University,Japan,24,,,124,938,72.2,kitasatou.ac.jp
+719,Kitasato University,Japan,24,,,124,938,72.2,kitasato-u.ac.jp
 720,University of Massachusetts Boston,USA,177,,1144,185,832,72.2,umb.edu
-721,Montana State University  Bozeman,USA,178,,1261,,680,72.2,montana.edu
+721,Montana State University - Bozeman,USA,178,,1261,,680,72.2,montana.edu
 722,University of Vigo,Spain,22,,,,681,72.2,uvigo.gal
 723,Kangwon National University,South Korea,21,,1486,,682,72.2,kangwon.ac.kr
 724,Ajou University,South Korea,22,,1011,,683,72.2,ajou.ac.kr
-725,University ParisEst Créteil,France,33,,817,,686,72.1,upec.fr
+725,University Paris-Est Créteil,France,33,,817,,686,72.1,u-pec.fr
 726,Panjab University,India,9,503,667,,692,72.1,puchd.ac.in
 727,National University of Defense Technology,China,84,,1237,,685,72.1,nudt.edu.cn
 728,University of Castilla–La Mancha,Spain,23,,,,684,72.1,uclm.es
-729,Technical University of Braunschweig,Germany,46,462,1058,,689,72.1,tubraunschweig.de
-730,University of Lübeck,Germany,47,,,,688,72.1,uniluebeck.de
+729,Technical University of Braunschweig,Germany,46,462,1058,,689,72.1,tu-braunschweig.de
+730,University of Lübeck,Germany,47,,,,688,72.1,uni-luebeck.de
 731,Zhejiang University of Technology,China,85,,1220,,690,72.1,zjut.edu.cn
 732,Tokyo University of Science,Japan,25,306,1050,,697,72.1,tus.ac.jp
 733,Nanchang University,China,86,,1284,,691,72.1,ncu.edu.cn
 734,Southwest Jiaotong University,China,87,,798,,696,72.1,swjtu.edu.cn
-735,Sorbonne Paris Nord University,France,34,,,,693,72.1,univparis13.fr
+735,Sorbonne Paris Nord University,France,34,,,,693,72.1,univ-paris13.fr
 736,South China Normal University,China,88,,1023,,699,72.1,scnu.edu.cn
 737,University of Salento,Italy,39,,,,698,72.1,unisalento.it
 738,Army Medical University,China,89,,,,700,72,tmmu.edu.cn
 739,Budker Institute of Nuclear Physics of the Siberian Branch of the Russian Academy of Sciences,Russia,11,,,,701,72,inp.nsk.su
-740,Osaka City University,Japan,26,234,530,,730,72,osakacu.ac.jp
+740,Osaka City University,Japan,26,234,530,,730,72,osaka-cu.ac.jp
 741,University of Idaho,USA,179,,,,702,72,uidaho.edu
 742,University of Cyprus,Cyprus,1,,,,703,72,ucy.ac.cy
 743,Kent State University,USA,180,,,,704,72,kent.edu
@@ -751,12 +751,12 @@
 750,University of Essex,United Kingdom,50,509,646,,718,72,essex.ac.uk
 751,Southern University of Science and Technology,China,90,,,,708,71.9,sustc.edu.cn
 752,Air Force Medical University,China,91,,,,710,71.9,fmmu.edu.cn
-753,QuaidiAzam University,Pakistan,1,,,,711,71.9,qau.edu.pk
+753,Quaid-i-Azam University,Pakistan,1,,,,711,71.9,qau.edu.pk
 754,"University of Science, Malaysia",Malaysia,2,,,,712,71.9,usm.my
 755,Beijing University of Posts and Telecommunications,China,92,,446,,737,71.9,bupt.edu.cn
 756,"Northwest University, China",China,93,,,,714,71.9,nwu.edu.cn
 757,Centrale Lille Institut,France,35,,99,,961,71.9,centralelille.fr
-758,University of Wuppertal,Germany,48,,,,715,71.9,uniwuppertal.de
+758,University of Wuppertal,Germany,48,,,,715,71.9,uni-wuppertal.de
 759,Amirkabir University of Technology,Iran,6,,,,716,71.9,aut.ac.ir
 760,Beijing University of Technology,China,94,,,,719,71.9,bjut.edu.cn
 761,Yeungnam University,South Korea,23,,369,,750,71.9,yu.ac.kr
@@ -773,11 +773,11 @@
 772,Getúlio Vargas Foundation,Brazil,12,,32,,,71.8,fgv.br
 773,"University of Córdoba, Spain",Spain,27,,,,731,71.8,uco.es
 774,Yerevan Physics Institute,Armenia,1,,,,732,71.8,yerphi.am
-775,Nagasaki University,Japan,27,285,285,,799,71.8,nagasakiu.ac.jp
+775,Nagasaki University,Japan,27,285,285,,799,71.8,nagasaki-u.ac.jp
 776,University of Denver,USA,183,,181,,854,71.8,du.edu
-777,University of Tours,France,36,160,,,779,71.8,univtours.fr
+777,University of Tours,France,36,160,,,779,71.8,univ-tours.fr
 778,"Open University, UK",United Kingdom,51,,1513,,738,71.7,open.ac.uk
-779,National Sun Yatsen University,Taiwan,12,,,,740,71.7,nsysu.edu.tw
+779,National Sun Yat-sen University,Taiwan,12,,,,740,71.7,nsysu.edu.tw
 780,Sejong University,South Korea,25,,,,741,71.7,sejong.ac.kr
 781,Northern Illinois University,USA,184,,687,,748,71.7,niu.edu
 782,Gyeongsang National University,South Korea,26,,,,742,71.7,gnu.ac.kr
@@ -785,7 +785,7 @@
 784,Kindai University,Japan,28,,,,743,71.7,kindai.ac.jp
 785,Miami University,USA,185,,123,,926,71.7,miamioh.edu
 786,Wesleyan University,USA,186,,52,,1483,71.7,wesleyan.edu
-787,Jean Monnet University,France,37,,,,746,71.7,univstetienne.fr
+787,Jean Monnet University,France,37,,,,746,71.7,univ-st-etienne.fr
 788,Juntendo University,Japan,29,,,,747,71.7,juntendo.ac.jp
 789,University of North Carolina at Charlotte,USA,187,,610,,760,71.7,uncc.edu
 790,Jawaharlal Nehru University,India,10,487,,78,1258,71.7,jnu.ac.in
@@ -801,7 +801,7 @@
 800,University of Rhode Island,USA,188,,523,,785,71.6,uri.edu
 801,University of Toledo,USA,189,,,,758,71.6,utoledo.edu
 802,"Putra University, Malaysia",Malaysia,3,,1457,,759,71.6,upm.edu.my
-803,USI  University of Italian Speaking Switzerland,Switzerland,11,,,,761,71.6,usi.ch
+803,USI - University of Italian Speaking Switzerland,Switzerland,11,,,,761,71.6,usi.ch
 804,Graz University of Technology,Austria,9,,,,762,71.6,tugraz.at
 805,Carl von Ossietzky University of Oldenburg,Germany,49,,,,763,71.6,uol.de
 806,University of Louisiana at Lafayette,USA,190,,,,764,71.5,louisiana.edu
@@ -818,7 +818,7 @@
 817,Shaanxi Normal University,China,101,,,,774,71.5,snnu.edu.cn
 818,"China Medical University, PRC",China,102,,,,775,71.5,cmu.edu.cn
 819,Old Dominion University,USA,192,,,,776,71.5,odu.edu
-820,University of Siegen,Germany,50,,1442,,777,71.4,unisiegen.de
+820,University of Siegen,Germany,50,,1442,,777,71.4,uni-siegen.de
 821,Shanxi University,China,103,,1472,,778,71.4,sxu.edu.cn
 822,Hohai University,China,104,,1387,,781,71.4,hhu.edu.cn
 823,University of Messina,Italy,43,,,,780,71.4,unime.it
@@ -830,7 +830,7 @@
 829,Cranfield University,United Kingdom,54,,178,,912,71.4,cranfield.ac.uk
 830,Indian Institute of Technology Kanpur,India,12,,514,,804,71.4,iitk.ac.in
 831,Norwegian School of Economics,Norway,6,456,41,,,71.4,nhh.no
-832,University of Hohenheim,Germany,51,,,,790,71.4,unihohenheim.de
+832,University of Hohenheim,Germany,51,,,,790,71.4,uni-hohenheim.de
 833,University of Wrocław,Poland,5,464,1332,252,856,71.4,uni.wroc.pl
 834,East Carolina University,USA,193,,722,,800,71.3,ecu.edu
 835,University of Alcalá,Spain,29,,,,792,71.3,uah.es
@@ -838,10 +838,10 @@
 837,Southern Illinois University Carbondale,USA,194,,1423,,795,71.3,siu.edu
 838,Brazilian Center for Research in Physics (CBPF),Brazil,13,,,,794,71.3,cbpf.br
 839,Uniformed Services University of the Health Sciences,USA,195,,,,796,71.3,usuhs.edu
-840,University of Orléans,France,39,,1445,,798,71.3,univorleans.fr
+840,University of Orléans,France,39,,1445,,798,71.3,univ-orleans.fr
 841,Rutgers University–Newark,USA,196,,858,,802,71.3,newark.rutgers.edu
 842,University of Alicante,Spain,30,,,,801,71.3,ua.es
-843,INSA Toulouse,France,40,,547,,822,71.3,insatoulouse.fr
+843,INSA Toulouse,France,40,,547,,822,71.3,insa-toulouse.fr
 844,Federico Santa María Technical University,Chile,4,,1137,,803,71.3,usm.cl
 845,University of Brasília,Brazil,14,,924,,806,71.3,unb.br
 846,University of Basilicata,Italy,44,,,,805,71.3,unibas.it
@@ -860,29 +860,29 @@
 859,University of Windsor,Canada,26,,172,,957,71.2,uwindsor.ca
 860,University of Valladolid,Spain,31,,1241,,816,71.2,uva.es
 861,Portland State University,USA,200,,359,,862,71.2,pdx.edu
-862,BabeșBolyai University,Romania,1,,,,817,71.2,ubbcluj.ro
+862,Babeș-Bolyai University,Romania,1,,,,817,71.2,ubbcluj.ro
 863,University of Insubria,Italy,45,,,,818,71.1,uninsubria.it
 864,Benemérita Autonomous University of Puebla,Mexico,4,,,,819,71.1,buap.mx
 865,Federal University of Pernambuco,Brazil,15,,1193,,820,71.1,ufpe.br
-866,TU Kaiserslautern,Germany,52,,1115,,823,71.1,unikl.de
+866,TU Kaiserslautern,Germany,52,,1115,,823,71.1,uni-kl.de
 867,"City, University of London",United Kingdom,57,517,432,,855,71.1,city.ac.uk
-868,Sofia University,Bulgaria,1,164,,,866,71.1,unisofia.bg
+868,Sofia University,Bulgaria,1,164,,,866,71.1,uni-sofia.bg
 869,Guangzhou Medical University,China,108,,,,824,71.1,gzhmu.edu.cn
-870,University of Hyogo,Japan,32,,,93,1286,71.1,uhyogo.ac.jp
+870,University of Hyogo,Japan,32,,,93,1286,71.1,u-hyogo.ac.jp
 871,COMSATS University Islamabad,Pakistan,2,,,,825,71.1,comsats.edu.pk
-872,Nihon University,Japan,33,516,1213,,827,71.1,nihonu.ac.jp
+872,Nihon University,Japan,33,516,1213,,827,71.1,nihon-u.ac.jp
 873,"All India Institute of Medical Sciences, New Delhi",India,15,,,,826,71.1,aiims.edu
 874,University of Akron,USA,201,,748,,835,71.1,uakron.edu
-875,Meijo University,Japan,34,,,48,1769,71.1,meijou.ac.jp
+875,Meijo University,Japan,34,,,48,1769,71.1,meijo-u.ac.jp
 876,Jaume I University,Spain,32,,,,828,71.1,uji.es
 877,University of Stirling,United Kingdom,58,,606,,845,71.1,stir.ac.uk
 878,Pepperdine University,USA,202,92,76,159,,71,pepperdine.edu
-879,Paul Valéry University,France,41,,,,829,71,univmontp3.fr
+879,Paul Valéry University,France,41,,,,829,71,univ-montp3.fr
 880,Harbin Engineering University,China,109,,,,830,71,hrbeu.edu.cn
 881,"University of Science and Technology, Korea",South Korea,27,,,,833,71,ust.ac.kr
 882,University of Portsmouth,United Kingdom,59,,1008,,839,71,port.ac.uk
 883,Bucknell University,USA,203,,50,,1790,71,bucknell.edu
-884,University of Poitiers,France,42,333,,,848,71,univpoitiers.fr
+884,University of Poitiers,France,42,333,,,848,71,univ-poitiers.fr
 885,Ivane Javakhishvili Tbilisi State University,Georgia,1,,,,838,71,tsu.ge
 886,National University of Malaysia (UKM),Malaysia,4,,,,840,71,ukm.my
 887,Iran University of Science and Technology,Iran,8,,,,841,71,iust.ac.ir
@@ -899,7 +899,7 @@
 898,Budapest University of Technology and Economics,Hungary,5,223,,,872,70.9,bme.hu
 899,Sanford Burnham Prebys Medical Discovery Institute,USA,206,,,,851,70.9,sbpdiscovery.org
 900,University of Seoul,South Korea,31,,,,853,70.9,uos.ac.kr
-901,Tokushima University,Japan,35,142,849,,918,70.9,tokushimau.ac.jp
+901,Tokushima University,Japan,35,142,849,,918,70.9,tokushima-u.ac.jp
 902,Cheung Kong Graduate School of Business,China,111,,31,,,70.9,ckgsb.edu.cn
 903,Ulster University,United Kingdom,61,,,,857,70.9,ulster.ac.uk
 904,Gabriele d’Annunzio University,Italy,46,,,,858,70.9,unich.it
@@ -920,16 +920,16 @@
 919,Peter the Great St. Petersburg Polytechnic University,Russia,14,479,946,,875,70.8,spbstu.ru
 920,Henan University,China,112,,,,873,70.8,henu.edu.cn
 921,Federal University of Viçosa,Brazil,17,,,,876,70.8,ufv.br
-922,NorthWest University,South Africa,7,,,,877,70.8,nwu.ac.za
+922,North-West University,South Africa,7,,,,877,70.8,nwu.ac.za
 923,Makerere University,Uganda,1,,1388,,878,70.8,mak.ac.ug
-924,University of FrancheComté,France,43,482,,,880,70.8,univfcomte.fr
+924,University of Franche-Comté,France,43,482,,,880,70.8,univ-fcomte.fr
 925,Johannes Kepler University Linz,Austria,10,,821,,888,70.7,jku.at
 926,University of Memphis,USA,212,,484,,909,70.7,memphis.edu
 927,Anhui University,China,113,,966,,886,70.7,ahu.edu.cn
 928,Tunis El Manar University,Tunisia,1,,,,881,70.7,utm.rnu.tn
 929,China Pharmaceutical University,China,114,,1242,,882,70.7,cpu.edu.cn
 930,Chiang Mai University,Thailand,3,,1483,,883,70.7,cmu.ac.th
-931,Tokai University,Japan,36,,,,884,70.7,utokai.ac.jp
+931,Tokai University,Japan,36,,,,884,70.7,u-tokai.ac.jp
 932,Federal University of Ceará,Brazil,18,,1362,,885,70.7,ufc.br
 933,Oberlin College,USA,213,30,,,,70.7,oberlin.edu
 934,Hangzhou Normal University,China,115,,1453,,887,70.7,hznu.edu.cn
@@ -939,7 +939,7 @@
 938,Guangxi University,China,117,,,,891,70.7,gxu.edu.cn
 939,Northumbria University,United Kingdom,62,,838,,896,70.7,northumbria.ac.uk
 940,Wroclaw Medical University,Poland,8,,,,893,70.6,umed.wroc.pl
-941,Ehime University,Japan,38,,1031,,900,70.6,ehimeu.ac.jp
+941,Ehime University,Japan,38,,1031,,900,70.6,ehime-u.ac.jp
 942,College of the Holy Cross,USA,214,175,48,,,70.6,holycross.edu
 943,Federal University of Pelotas,Brazil,19,,,,898,70.6,ufpel.edu.br
 944,Ningbo University,China,118,,1372,,899,70.6,nbu.edu.cn
@@ -954,10 +954,10 @@
 953,Lappeenranta University of Technology,Finland,8,,759,,913,70.6,lut.fi
 954,Florida Institute of Technology,USA,216,,663,,924,70.6,fit.edu
 955,University of Upper Alsace,France,44,,,,911,70.6,uha.fr
-956,University of Toyama,Japan,40,,561,,942,70.5,utoyama.ac.jp
-957,University of Picardie Jules Verne,France,45,,,,914,70.5,upicardie.fr
+956,University of Toyama,Japan,40,,561,,942,70.5,u-toyama.ac.jp
+957,University of Picardie Jules Verne,France,45,,,,914,70.5,u-picardie.fr
 958,Hunter College,USA,217,153,1199,,973,70.5,hunter.cuny.edu
-959,Gifu University,Japan,41,,758,,928,70.5,gifuu.ac.jp
+959,Gifu University,Japan,41,,758,,928,70.5,gifu-u.ac.jp
 960,Autonomous University of San Luis Potosí,Mexico,5,,,,916,70.5,uaslp.mx
 961,Mansoura University,Egypt,3,,,,917,70.5,mans.edu.eg
 962,Zhejiang Normal University,China,119,,,,919,70.5,zjnu.edu.cn
@@ -965,13 +965,13 @@
 964,Hallym University,South Korea,33,,,,921,70.5,hallym.ac.kr
 965,Shahid Beheshti University of Medical Sciences,Iran,10,,,,922,70.5,sbmu.ac.ir
 966,Medical University of Lodz,Poland,9,,,,923,70.5,umed.pl
-967,Osaka Prefecture University,Japan,43,,636,,947,70.5,osakafuu.ac.jp
+967,Osaka Prefecture University,Japan,43,,636,,947,70.5,osakafu-u.ac.jp
 968,Miguel Hernández University of Elche,Spain,33,,,,925,70.5,umh.es
 969,Shandong University of Science and Technology,China,120,,1127,,927,70.5,sdust.edu.cn
 970,Aston University,United Kingdom,63,,557,,955,70.5,aston.ac.uk
-971,Rouen Normandy University,France,46,449,,,929,70.5,univrouen.fr
+971,Rouen Normandy University,France,46,449,,,929,70.5,univ-rouen.fr
 972,Alexandria University,Egypt,4,404,1514,,933,70.5,alexu.edu.eg
-973,University of Mannheim,Germany,53,,859,,937,70.4,unimannheim.de
+973,University of Mannheim,Germany,53,,859,,937,70.4,uni-mannheim.de
 974,Anhui Medical University,China,121,,,,930,70.4,ahmu.edu.cn
 975,King Juan Carlos University,Spain,34,,,,931,70.4,urjc.es
 976,Wrocław University of Science and Technology,Poland,10,,912,,936,70.4,pwr.edu.pl
@@ -983,11 +983,11 @@
 982,Creighton University,USA,219,,,,935,70.4,creighton.edu
 983,ShanghaiTech University,China,122,,,,939,70.4,shanghaitech.edu.cn
 984,Marmara University,Turkey,11,,,,940,70.4,marmara.edu.tr
-985,Chuo University,Japan,44,,71,,1594,70.4,chuou.ac.jp
+985,Chuo University,Japan,44,,71,,1594,70.4,chuo-u.ac.jp
 986,Ferdowsi University of Mashhad,Iran,11,,,,943,70.4,um.ac.ir
 987,Khalifa University,United Arab Emirates,1,,,,944,70.4,ku.ac.ae
 988,University of A Coruña,Spain,36,,,,945,70.4,udc.es
-989,Yamagata University,Japan,45,,,,948,70.3,yamagatau.ac.jp
+989,Yamagata University,Japan,45,,,,948,70.3,yamagata-u.ac.jp
 990,University of Naples Parthenope,Italy,48,,,,949,70.3,uniparthenope.it
 991,Xiangtan University,China,123,,1038,,951,70.3,xtu.edu.cn
 992,University of Tabriz,Iran,12,,,,950,70.3,tabrizu.ac.ir
@@ -1000,8 +1000,8 @@
 999,Sogang University,South Korea,34,,657,,965,70.3,sogang.ac.kr
 1000,Louisiana Tech University,USA,223,,312,,1019,70.3,latech.edu
 1001,Taiyuan University of Technology,China,127,,1250,,958,70.3,tyut.edu.cn
-1002,Kagoshima University,Japan,46,,709,,968,70.3,kagoshimau.ac.jp
-1003,Gunma University,Japan,47,,,,959,70.3,gunmau.ac.jp
+1002,Kagoshima University,Japan,46,,709,,968,70.3,kagoshima-u.ac.jp
+1003,Gunma University,Japan,47,,,,959,70.3,gunma-u.ac.jp
 1004,Villanova University,USA,224,413,132,,1192,70.3,villanova.edu
 1005,Federal University of Juiz de Fora,Brazil,22,,,,960,70.3,ufjf.br
 1006,Nicolaus Copernicus University,Poland,11,,,,962,70.2,umk.pl
@@ -1026,11 +1026,11 @@
 1025,Nara Institute of Science and Technology,Japan,48,,,,981,70.1,naist.jp
 1026,Dublin City University,Ireland,7,,857,,987,70.1,dcu.ie
 1027,University of New Brunswick,Canada,29,,863,,988,70.1,unb.ca
-1028,University of Salzburg,Austria,11,,578,,1011,70.1,unisalzburg.at
+1028,University of Salzburg,Austria,11,,578,,1011,70.1,uni-salzburg.at
 1029,Jadavpur University,India,17,,1202,,986,70.1,jaduniv.edu.in
-1030,Nagoya City University,Japan,49,,733,,999,70.1,nagoyacu.ac.jp
+1030,Nagoya City University,Japan,49,,733,,999,70.1,nagoya-cu.ac.jp
 1031,Dankook University,South Korea,35,,1252,,989,70.1,dankook.ac.kr
-1032,Paderborn University,Germany,54,,1299,,991,70.1,unipaderborn.de
+1032,Paderborn University,Germany,54,,1299,,991,70.1,uni-paderborn.de
 1033,Hunan Normal University,China,133,,,,990,70.1,hunnu.edu.cn
 1034,Yıldız Technical University,Turkey,12,,1152,,993,70.1,yildiz.edu.tr
 1035,University of North Carolina at Greensboro,USA,227,,,,992,70.1,uncg.edu
@@ -1038,14 +1038,14 @@
 1037,Academy of Scientific & Innovative Research,India,18,,,,994,70.1,acsir.res.in
 1038,Hangzhou Dianzi University,China,134,,1128,,997,70.1,hdu.edu.cn
 1039,Medical University of Gdańsk,Poland,13,,,,995,70.1,mug.edu.pl
-1040,IMT Atlantique,France,47,,,,996,70,imtatlantique.fr
+1040,IMT Atlantique,France,47,,,,996,70,imt-atlantique.fr
 1041,Aga Khan University,Pakistan,3,,,,998,70,aku.edu
 1042,University of Urbino,Italy,49,,1110,,1003,70,uniurb.it
 1043,Kunming University of Science and Technology,China,135,,,,1000,70,kmust.edu.cn
 1044,Åbo Akademi University,Finland,9,,,,1001,70,abo.fi
 1045,Fujian Agriculture and Forestry University,China,136,,,,1002,70,fafu.edu.cn
 1046,Jichi Medical University,Japan,50,,,,1004,70,jichi.ac.jp
-1047,Brandenburg University of Technology,Germany,55,,,,1005,70,btu.de
+1047,Brandenburg University of Technology,Germany,55,,,,1005,70,b-tu.de
 1048,Cadi Ayyad University,Morocco,1,,,,1006,70,uca.ma
 1049,University of Puerto Rico at Mayagüez,USA,229,,,,1007,70,uprm.edu
 1050,Florida Atlantic University,USA,230,,,,1008,70,fau.edu
@@ -1057,7 +1057,7 @@
 1056,University of Antioquia,Colombia,3,,1177,,1015,70,udea.edu.co
 1057,Auckland University of Technology,New Zealand,6,,,,1016,69.9,aut.ac.nz
 1058,University of Maribor,Slovenia,2,,,,1017,69.9,um.si
-1059,University of Augsburg,Germany,56,,,,1018,69.9,uniaugsburg.de
+1059,University of Augsburg,Germany,56,,,,1018,69.9,uni-augsburg.de
 1060,National Taipei University of Technology,Taiwan,15,,782,,1025,69.9,ntut.edu.tw
 1061,Edith Cowan University,Australia,28,,1168,,1020,69.9,ecu.edu.au
 1062,Institute of Solid State Physics of the Russian Academy of Sciences,Russia,16,40,,,,69.9,issp.ac.ru
@@ -1075,19 +1075,19 @@
 1074,Menlo College,USA,235,,40,,,69.9,menlo.edu
 1075,University of Waikato,New Zealand,7,,601,,1047,69.8,waikato.ac.nz
 1076,Australian Catholic University,Australia,29,,1473,,1031,69.8,acu.edu.au
-1077,Teikyo University,Japan,51,,,,1032,69.8,teikyou.ac.jp
+1077,Teikyo University,Japan,51,,,,1032,69.8,teikyo-u.ac.jp
 1078,Rochester Institute of Technology,USA,236,,1068,,1033,69.8,rit.edu
 1079,Asian Institute of Management,Philippines,1,,39,,,69.8,aim.edu
 1080,V.A. Engelhardt Institute of Molecular Biology of the Russian Academy of Sciences,Russia,17,39,,,,69.8,eimb.ru
 1081,United States Military Academy,USA,237,,59,,,69.8,westpoint.edu
 1082,Metropolitan Autonomous University,Mexico,6,,,,1034,69.8,uam.mx
-1083,École centrale de Lyon,France,48,,331,,1096,69.8,eclyon.fr
+1083,École centrale de Lyon,France,48,,331,,1096,69.8,ec-lyon.fr
 1084,University of Jaén,Spain,39,,,,1035,69.8,ujaen.es
 1085,Kazan Federal University,Russia,18,,1497,,1036,69.8,kpfu.ru
-1086,University of Évry Val d'Essonne,France,49,,,,1037,69.8,univevry.fr
+1086,University of Évry Val d'Essonne,France,49,,,,1037,69.8,univ-evry.fr
 1087,Copenhagen Business School,Denmark,6,,197,,1210,69.8,cbs.dk
 1088,Soonchunhyang University,South Korea,36,,,,1038,69.8,sch.ac.kr
-1089,Zhejiang SciTech University,China,139,,1324,,1039,69.8,zstu.edu.cn
+1089,Zhejiang Sci-Tech University,China,139,,1324,,1039,69.8,zstu.edu.cn
 1090,University of Thessaly,Greece,7,,,,1040,69.8,uth.gr
 1091,Charles Sturt University,Australia,30,,1203,,1042,69.8,csu.edu.au
 1092,Qufu Normal University,China,140,,,,1041,69.8,qfnu.edu.cn
@@ -1095,15 +1095,15 @@
 1094,Indian Association for the Cultivation of Science,India,20,,,,1044,69.7,iacs.res.in
 1095,Mersin University,Turkey,14,,,,1045,69.7,mersin.edu.tr
 1096,Hassan II University of Casablanca,Morocco,3,,,,1046,69.7,univh2c.ma
-1097,Toho University,Japan,52,,,,1048,69.7,tohou.ac.jp
+1097,Toho University,Japan,52,,,,1048,69.7,toho-u.ac.jp
 1098,Pablo de Olavide University,Spain,40,,,,1049,69.7,upo.es
-1099,Chemnitz University of Technology,Germany,57,,1397,,1051,69.7,tuchemnitz.de
+1099,Chemnitz University of Technology,Germany,57,,1397,,1051,69.7,tu-chemnitz.de
 1100,University of Novi Sad,Serbia,2,,,,1050,69.7,uns.ac.rs
 1101,University of Dayton,USA,238,215,129,,1418,69.7,udayton.edu
-1102,University of Kassel,Germany,58,,,,1052,69.7,unikassel.de
+1102,University of Kassel,Germany,58,,,,1052,69.7,uni-kassel.de
 1103,Howard University,USA,239,,,,1053,69.7,howard.edu
-1104,University of MissouriSt. Louis,USA,240,,399,,1099,69.7,umsl.edu
-1105,Mie University,Japan,53,,,,1054,69.7,mieu.ac.jp
+1104,University of Missouri-St. Louis,USA,240,,399,,1099,69.7,umsl.edu
+1105,Mie University,Japan,53,,,,1054,69.7,mie-u.ac.jp
 1106,Shahid Beheshti University,Iran,13,,,,1055,69.7,sbu.ac.ir
 1107,University of Canberra,Australia,31,,1405,,1056,69.7,canberra.edu.au
 1108,National Defense Medical Center,Taiwan,16,,,,1057,69.7,ndmctsgh.edu.tw
@@ -1112,10 +1112,10 @@
 1111,Charles Darwin University,Australia,32,,,,1058,69.6,cdu.edu.au
 1112,Stevens Institute of Technology,USA,243,372,175,,1293,69.6,stevens.edu
 1113,Manchester Metropolitan University,United Kingdom,65,,1010,,1063,69.6,mmu.ac.uk
-1114,Kyoto Prefectural University of Medicine,Japan,54,,,,1059,69.6,kpum.ac.jp
+1114,Kyoto Prefectural University of Medicine,Japan,54,,,,1059,69.6,kpu-m.ac.jp
 1115,Chung Shan Medical University,Taiwan,17,,,,1060,69.6,csmu.edu.tw
 1116,Tokat Gaziosmanpaşa University,Turkey,15,,,,1061,69.6,gop.edu.tr
-1117,Yamaguchi University,Japan,55,,,,1062,69.6,yamaguchiu.ac.jp
+1117,Yamaguchi University,Japan,55,,,,1062,69.6,yamaguchi-u.ac.jp
 1118,Nanjing Forestry University,China,141,,,,1064,69.6,njfu.edu.cn
 1119,University of Silesia in Katowice,Poland,14,,,,1065,69.6,us.edu.pl
 1120,San Francisco State University,USA,244,,1335,,1066,69.6,sfsu.edu
@@ -1123,24 +1123,24 @@
 1122,Guangzhou University,China,142,,950,,1074,69.6,gzhu.edu.cn
 1123,Postgraduate Institute of Medical Education and Research,India,21,,,,1067,69.6,pgimer.edu.in
 1124,University of Shanghai for Science and Technology,China,143,,,,1068,69.6,usst.edu.cn
-1125,Jacobs University,Germany,59,,,,1069,69.6,jacobsuniversity.de
+1125,Jacobs University,Germany,59,,,,1069,69.6,jacobs-university.de
 1126,University of Yamanashi,Japan,56,177,,,1117,69.6,yamanashi.ac.jp
 1127,Dokuz Eylül University,Turkey,16,,,,1070,69.6,deu.edu.tr
 1128,Aligarh Muslim University,India,22,,1476,,1071,69.6,amu.ac.in
-1129,University of Sfax,Tunisia,2,,,,1072,69.5,univsfax.tn
+1129,University of Sfax,Tunisia,2,,,,1072,69.5,univ-sfax.tn
 1130,Wright State University,USA,246,,,,1073,69.5,wright.edu
 1131,"University of Chemistry and Technology, Prague",Czech Republic,6,,,,1075,69.5,vscht.cz
 1132,Liverpool School of Tropical Medicine,United Kingdom,66,,,,1076,69.5,lstmed.ac.uk
 1133,"California State University, Fresno",USA,247,,,,1078,69.5,csufresno.edu
-1134,VisvaBharati University,India,23,,,,1079,69.5,visvabharati.ac.in
+1134,Visva-Bharati University,India,23,,,,1079,69.5,visvabharati.ac.in
 1135,Addis Ababa University,Ethiopia,1,,,,1080,69.5,aau.edu.et
-1136,Osnabrück University,Germany,60,,,,1081,69.5,uniosnabrueck.de
+1136,Osnabrück University,Germany,60,,,,1081,69.5,uni-osnabrueck.de
 1137,Fujian Medical University,China,144,,,,1082,69.5,fjmu.edu.cn
 1138,Koç University,Turkey,17,,,,1083,69.5,ku.edu.tr
 1139,Fujian Normal University,China,145,,,,1084,69.5,fjnu.edu.cn
 1140,South Dakota State University,USA,248,297,,,1093,69.5,sdstate.edu
 1141,University of Las Palmas de Gran Canaria,Spain,41,,,,1085,69.5,ulpgc.es
-1142,Toulouse 1 Capitole University,France,50,,,249,1196,69.5,utcapitole.fr
+1142,Toulouse 1 Capitole University,France,50,,,249,1196,69.5,ut-capitole.fr
 1143,Wilfrid Laurier University,Canada,30,,515,,1116,69.5,wlu.ca
 1144,University of Alabama in Huntsville,USA,249,,,,1086,69.5,uah.edu
 1145,Pukyong National University,South Korea,37,,,,1087,69.5,pknu.ac.kr
@@ -1151,24 +1151,24 @@
 1150,Sant'Anna School of Advanced Studies,Italy,51,,,,1091,69.4,santannapisa.it
 1151,Singapore University of Technology and Design,Singapore,3,,,,1092,69.4,sutd.edu.sg
 1152,Central Party School of the Communist Party of China,China,147,,43,,,69.4,ccps.gov.cn
-1153,Kanazawa Institute of Technology,Japan,57,189,,55,,69.4,kanazawait.ac.jp
+1153,Kanazawa Institute of Technology,Japan,57,189,,55,,69.4,kanazawa-it.ac.jp
 1154,Nippon Medical School,Japan,58,,,,1094,69.4,nms.ac.jp
 1155,Erciyes University,Turkey,19,,,,1095,69.4,erciyes.edu.tr
 1156,Santa Clara University,USA,251,,118,,1504,69.4,scu.edu
 1157,Hofstra University,USA,252,415,847,,1105,69.4,hofstra.edu
 1158,University of Western Cape,South Africa,8,,,,1097,69.4,uwc.ac.za
 1159,Ramon Llull University,Spain,42,,353,,1165,69.4,url.edu
-1160,IberoAmerican University,Mexico,8,,238,,1243,69.4,ibero.mx
+1160,Ibero-American University,Mexico,8,,238,,1243,69.4,ibero.mx
 1161,Prince of Songkla University,Thailand,4,,,,1098,69.4,psu.ac.th
 1162,Brock University,Canada,31,,,,1100,69.4,brocku.ca
 1163,University of Ibadan,Nigeria,1,,,,1101,69.4,ui.edu.ng
 1164,Jikei University,Japan,59,,,,1102,69.4,jikei.ac.jp/univ
 1165,Tiangong University,China,148,,,,1103,69.4,tiangong.edu.cn
 1166,Luleå University of Technology,Sweden,13,,,,1104,69.3,ltu.se
-1167,University of the Ryukyus,Japan,60,,,,1107,69.3,uryukyu.ac.jp
+1167,University of the Ryukyus,Japan,60,,,,1107,69.3,u-ryukyu.ac.jp
 1168,Federal University of Pará,Brazil,27,,,,1108,69.3,ufpa.br
 1169,Hubei University,China,149,,1318,,1110,69.3,hubu.edu.cn
-1170,Federal University of São João delRei,Brazil,28,,,,1109,69.3,ufsj.edu.br
+1170,Federal University of São João del-Rei,Brazil,28,,,,1109,69.3,ufsj.edu.br
 1171,"Indian Institute of Science Education and Research, Pune",India,24,,,,1111,69.3,iiserpune.ac.in
 1172,Poznan University of Medical Sciences,Poland,15,,,,1112,69.3,ump.edu.pl
 1173,Anna University,India,25,529,1474,,1113,69.3,annauniv.edu
@@ -1179,9 +1179,9 @@
 1178,University of Algarve,Portugal,7,,,,1120,69.3,ualg.pt
 1179,Federal University of Mato Grosso do Sul,Brazil,29,,,,1121,69.3,ufms.br
 1180,Fu Jen Catholic University,Taiwan,18,,901,,1129,69.3,fju.edu.tw
-1181,DongA University,South Korea,38,,923,,1130,69.3,donga.ac.kr
+1181,Dong-A University,South Korea,38,,923,,1130,69.3,donga.ac.kr
 1182,"California Polytechnic State University, San Luis Obispo",USA,254,,383,,1193,69.3,calpoly.edu
-1183,Kōchi University,Japan,61,,,,1122,69.3,kochiu.ac.jp
+1183,Kōchi University,Japan,61,,,,1122,69.3,kochi-u.ac.jp
 1184,Albany Medical College,USA,255,,,,1123,69.3,amc.edu/Academic
 1185,Maynooth University,Ireland,8,,,,1124,69.2,maynoothuniversity.ie
 1186,West University of Timișoara,Romania,4,,,,1125,69.2,uvt.ro
@@ -1189,15 +1189,15 @@
 1188,Yokohama National University,Japan,62,,339,,1214,69.2,ynu.ac.jp
 1189,Shanghai University of Finance and Economics,China,150,,161,,1427,69.2,sufe.edu.cn
 1190,"University of Puerto Rico, Medical Sciences Campus",USA,256,,,,1127,69.2,rcm.upr.edu
-1191,University of Perpignan,France,51,,,,1128,69.2,univperp.fr
+1191,University of Perpignan,France,51,,,,1128,69.2,univ-perp.fr
 1192,Guizhou University,China,151,,1155,,1132,69.2,gzu.edu.cn
 1193,Jiangsu Normal University,China,152,,,,1131,69.2,jsnu.edu.cn
 1194,Chung Yuan Christian University,Taiwan,20,,481,,1175,69.2,cycu.edu.tw
-1195,Saitama Medical University,Japan,63,,,,1133,69.2,saitamamed.ac.jp
+1195,Saitama Medical University,Japan,63,,,,1133,69.2,saitama-med.ac.jp
 1196,University of North Dakota,USA,257,,1235,,1135,69.2,und.edu
 1197,Assiut University,Egypt,5,,1503,,1134,69.2,aun.edu.eg
 1198,Carol Davila University of Medicine and Pharmacy,Romania,5,,,,1136,69.2,umfcd.ro
-1199,Tokyo Medical University,Japan,64,,,,1137,69.2,tokyomed.ac.jp
+1199,Tokyo Medical University,Japan,64,,,,1137,69.2,tokyo-med.ac.jp
 1200,University of the Free State,South Africa,9,,,,1138,69.2,ufs.ac.za
 1201,University of Namur,Belgium,10,339,586,,1178,69.2,unamur.be
 1202,TOBB University of Economics and Technology,Turkey,20,,,,1139,69.2,etu.edu.tr
@@ -1215,24 +1215,24 @@
 1214,Süleyman Demirel University,Turkey,22,,,,1148,69.1,sdu.edu.tr
 1215,Northeast Forestry University,China,153,,,,1149,69.1,nefu.edu.cn
 1216,University of Limoges,France,53,,,,1151,69.1,unilim.fr
-1217,Tottori University,Japan,65,281,741,,1197,69.1,tottoriu.ac.jp
+1217,Tottori University,Japan,65,281,741,,1197,69.1,tottori-u.ac.jp
 1218,University of Hyderabad,India,27,,,,1152,69.1,uohyd.ac.in
-1219,Saitama University,Japan,66,364,793,,1176,69.1,saitamau.ac.jp
+1219,Saitama University,Japan,66,364,793,,1176,69.1,saitama-u.ac.jp
 1220,Conservatoire national des arts et métiers,France,54,,1360,,1154,69.1,cnam.fr
-1221,Hirosaki University,Japan,67,,965,,1162,69.1,hirosakiu.ac.jp
+1221,Hirosaki University,Japan,67,,965,,1162,69.1,hirosaki-u.ac.jp
 1222,Hebei University,China,154,,1101,,1160,69.1,hbu.edu.cn
-1223,University of Pau and Pays de l'Adour,France,55,,,,1155,69.1,univpau.fr
+1223,University of Pau and Pays de l'Adour,France,55,,,,1155,69.1,univ-pau.fr
 1224,K. N. Toosi University of Technology,Iran,14,,,,1157,69,kntu.ac.ir
-1225,Saga University,Japan,68,,,,1158,69,sagau.ac.jp
+1225,Saga University,Japan,68,,,,1158,69,saga-u.ac.jp
 1226,Kafkas University,Turkey,23,,,,1159,69,kafkas.edu.tr
 1227,"University of the West of England, Bristol",United Kingdom,69,477,,,1163,69,uwe.ac.uk
 1228,ESSEC Business School,France,56,,72,,,69,essec.edu
-1229,Fujita Health University,Japan,69,,,,1161,69,fujitahu.ac.jp
+1229,Fujita Health University,Japan,69,,,,1161,69,fujita-hu.ac.jp
 1230,National Taiwan Ocean University,Taiwan,21,,1028,,1167,69,ntou.edu.tw
-1231,École nationale vétérinaire d'Alfort,France,57,,75,,,69,vetalfort.fr
+1231,École nationale vétérinaire d'Alfort,France,57,,75,,,69,vet-alfort.fr
 1232,Federal University of Uberlândia,Brazil,30,,,,1164,69,ufu.br
 1233,Austral University of Chile,Chile,5,,1021,,1172,69,uach.cl
-1234,Hyogo College of Medicine,Japan,70,,,,1166,69,hyomed.ac.jp
+1234,Hyogo College of Medicine,Japan,70,,,,1166,69,hyo-med.ac.jp
 1235,United Arab Emirates University,United Arab Emirates,2,,1416,,1168,69,uaeu.ac.ae
 1236,Public University of Navarre,Spain,43,,,,1170,69,unavarra.es
 1237,Trent University,Canada,32,,1153,,1174,69,trentu.ca
@@ -1246,26 +1246,26 @@
 1245,Tomsk Polytechnic University,Russia,20,,,,1182,68.9,tpu.ru
 1246,Nanjing University of Chinese Medicine,China,156,,,,1183,68.9,njucm.edu.cn
 1247,Bournemouth University,United Kingdom,70,,,,1184,68.9,bournemouth.ac.uk
-1248,Medical University Sofia,Bulgaria,2,,,,1185,68.9,musofia.bg
+1248,Medical University Sofia,Bulgaria,2,,,,1185,68.9,mu-sofia.bg
 1249,State University of Maringá,Brazil,32,,,,1186,68.9,uem.br
-1250,Campus BioMedico University,Italy,53,,,,1187,68.9,unicampus.it
+1250,Campus Bio-Medico University,Italy,53,,,,1187,68.9,unicampus.it
 1251,Pomona College,USA,261,57,816,265,,68.9,pomona.edu
 1252,Hebei University of Technology,China,157,,1275,,1188,68.9,hebut.edu.cn
-1253,XLRI  Xavier School of Management,India,28,,49,,,68.9,xlri.ac.in
+1253,XLRI - Xavier School of Management,India,28,,49,,,68.9,xlri.ac.in
 1254,Boise State University,USA,262,,1459,,1189,68.9,boisestate.edu
-1255,Fukuoka University,Japan,72,,,,1190,68.9,fukuokau.ac.jp
+1255,Fukuoka University,Japan,72,,,,1190,68.9,fukuoka-u.ac.jp
 1256,Kuwait University,Kuwait,1,,1274,,1191,68.9,ku.edu.kw
 1257,SUNY College of Environmental Science and Forestry,USA,263,100,,,1439,68.9,esf.edu
 1258,Changzhou University,China,158,,1280,,1195,68.9,cczu.edu.cn
 1259,Federal University of Espírito Santo,Brazil,33,,,,1194,68.9,ufes.br
 1260,National Chengchi University,Taiwan,22,,125,,1643,68.9,nccu.edu.tw
 1261,University of the Punjab,Pakistan,4,436,1515,,1203,68.9,pu.edu.pk
-1262,University of ToulouseJean Jaurès,France,58,,,,1198,68.9,univtlse2.fr
+1262,University of Toulouse-Jean Jaurès,France,58,,,,1198,68.9,univ-tlse2.fr
 1263,Czech University of Life Sciences Prague,Czech Republic,7,,,,1199,68.9,czu.cz
 1264,Chosun University,South Korea,40,,,,1200,68.8,chosun.ac.kr
 1265,Tianjin University of Technology,China,159,,,,1202,68.8,tjut.edu.cn
-1266,Showa University,Japan,73,,994,,1208,68.8,showau.ac.jp
-1267,Kurume University,Japan,74,,,,1204,68.8,kurumeu.ac.jp
+1266,Showa University,Japan,73,,994,,1208,68.8,showa-u.ac.jp
+1267,Kurume University,Japan,74,,,,1204,68.8,kurume-u.ac.jp
 1268,National Chung Cheng University,Taiwan,23,,,,1205,68.8,ccu.edu.tw
 1269,Atatürk University,Turkey,24,,1402,,1206,68.8,atauni.edu.tr
 1270,University of Southern Queensland,Australia,33,,976,,1211,68.8,usq.edu.au
@@ -1278,11 +1278,11 @@
 1277,National Institute for Space Research (INPE),Brazil,34,,,,1215,68.8,inpe.br
 1278,National University of Distance Education,Spain,45,,1308,,1217,68.8,uned.es
 1279,"California State University, Fullerton",USA,264,,1052,,1220,68.8,fullerton.edu
-1280,University of Miyazaki,Japan,76,,,,1218,68.8,miyazakiu.ac.jp
+1280,University of Miyazaki,Japan,76,,,,1218,68.8,miyazaki-u.ac.jp
 1281,University of Camerino,Italy,54,,,,1219,68.8,unicam.it
 1282,University of Central Lancashire,United Kingdom,71,,1205,,1222,68.8,uclan.ac.uk
 1283,Pavol Jozef Šafárik University in Košice,Slovak Republic,2,,,,1221,68.8,upjs.sk
-1284,University of Reims ChampagneArdenne,France,60,,1001,,1227,68.7,univreims.fr
+1284,University of Reims Champagne-Ardenne,France,60,,1001,,1227,68.7,univ-reims.fr
 1285,Tuscia University,Italy,55,,,,1223,68.7,unitus.it
 1286,Hampton University,USA,265,,,,1224,68.7,hamptonu.edu
 1287,Singapore Management University,Singapore,4,,,,1225,68.7,smu.edu.sg
@@ -1298,7 +1298,7 @@
 1297,Soongsil University,South Korea,42,,,,1233,68.7,ssu.ac.kr
 1298,Huaqiao University,China,162,,,,1234,68.7,hqu.edu.cn
 1299,Jeju National University,South Korea,43,,,,1235,68.7,jejunu.ac.kr
-1300,Gustave Eiffel University,France,61,441,,,1236,68.7,univgustaveeiffel.fr
+1300,Gustave Eiffel University,France,61,441,,,1236,68.7,univ-gustave-eiffel.fr
 1301,Macau University of Science and Technology,China,163,,522,,1285,68.7,must.edu.mo
 1302,Institute for Pure and Applied Mathematics (IMPA),Brazil,35,89,,220,,68.7,impa.br
 1303,Oxford Brookes University,United Kingdom,72,,,,1237,68.7,brookes.ac.uk
@@ -1306,7 +1306,7 @@
 1305,Mashhad University of Medical Sciences,Iran,15,,,,1238,68.6,mums.ac.ir
 1306,Federal University of Lavras,Brazil,36,,,,1241,68.6,ufla.br
 1307,Shenyang Pharmaceutical University,China,165,,,,1242,68.6,syphu.edu.cn
-1308,CY Cergy Paris University,France,62,,,,1244,68.6,ucergy.fr
+1308,CY Cergy Paris University,France,62,,,,1244,68.6,u-cergy.fr
 1309,Guangxi Medical University,China,166,,,,1245,68.6,gxmu.edu.cn
 1310,Vellore Institute of Technology,India,29,,,,1246,68.6,vit.ac.in
 1311,Warsaw University of Life Sciences,Poland,18,448,,,1251,68.6,sggw.pl
@@ -1326,18 +1326,18 @@
 1325,"Vietnam National University, Hanoi",Vietnam,1,,,,1262,68.5,vnu.edu.vn
 1326,University of Costa Rica,Costa Rica,1,,,,1264,68.5,ucr.ac.cr
 1327,University of Agriculture Faisalabad,Pakistan,5,,,,1265,68.5,uaf.edu.pk
-1328,Shimane University,Japan,78,,,,1266,68.5,shimaneu.ac.jp
+1328,Shimane University,Japan,78,,,,1266,68.5,shimane-u.ac.jp
 1329,Jordan University of Science and Technology,Jordan,1,,,,1268,68.5,just.edu.jo
 1330,University of Monastir,Tunisia,3,,,,1270,68.5,um.rnu.tn
 1331,Uludağ University,Turkey,26,,,,1271,68.5,uludag.edu.tr
-1332,University of Occupational and Environmental Health Japan,Japan,79,,,,1272,68.5,uoehu.ac.jp
+1332,University of Occupational and Environmental Health Japan,Japan,79,,,,1272,68.5,uoeh-u.ac.jp
 1333,Baruch College,USA,270,,712,260,1431,68.5,baruch.cuny.edu
 1334,Anhui Normal University,China,171,,,,1273,68.5,ahnu.edu.cn
 1335,Qilu University of Technology,China,172,,,,1274,68.5,qlu.edu.cn
 1336,Gdańsk University of Technology,Poland,19,,1194,,1277,68.5,pg.edu.pl
 1337,University of Lethbridge,Canada,34,312,,,1295,68.5,uleth.ca
 1338,Lodz University of Technology,Poland,20,,,,1275,68.5,p.lodz.pl
-1339,Shiga University of Medical Science,Japan,80,,,,1276,68.5,shigamed.ac.jp
+1339,Shiga University of Medical Science,Japan,80,,,,1276,68.5,shiga-med.ac.jp
 1340,University of Carthage,Tunisia,4,,,,1278,68.5,ucar.rnu.tn
 1341,Southern Cross University,Australia,34,,,,1279,68.5,scu.edu.au
 1342,SOAS University of London,United Kingdom,73,76,906,,1758,68.5,soas.ac.uk
@@ -1347,14 +1347,14 @@
 1346,University of Ghana,Ghana,1,,1489,,1282,68.4,ug.edu.gh
 1347,Institute of Tropical Medicine Antwerp,Belgium,11,,,,1283,68.4,itg.be
 1348,Erzincan Binali Yıldırım University,Turkey,27,,,,1284,68.4,ebyu.edu.tr
-1349,Hiroshima Institute of Technology,Japan,81,,,,1287,68.4,ithiroshima.ac.jp
+1349,Hiroshima Institute of Technology,Japan,81,,,,1287,68.4,it-hiroshima.ac.jp
 1350,University of Guadalajara,Mexico,11,,,,1288,68.4,udg.mx
 1351,Fayoum University,Egypt,7,,,,1289,68.4,fayoum.edu.eg
-1352,University of Toulon,France,63,,,,1290,68.4,univtln.fr
+1352,University of Toulon,France,63,,,,1290,68.4,univ-tln.fr
 1353,Coventry University,United Kingdom,74,,932,,1301,68.4,coventry.ac.uk
 1354,Western Michigan University,USA,272,,,,1291,68.4,wmich.edu
 1355,Williams College,USA,273,152,169,,1816,68.4,williams.edu
-1356,University of ElectroCommunications,Japan,82,,,,1292,68.4,uec.ac.jp
+1356,University of Electro-Communications,Japan,82,,,,1292,68.4,uec.ac.jp
 1357,University of Nairobi,Kenya,1,,,,1294,68.4,uonbi.ac.ke
 1358,Hanken School of Economics,Finland,10,,77,,,68.4,hanken.fi
 1359,Chang'an University,China,174,,1481,,1296,68.4,chd.edu.cn
@@ -1364,18 +1364,18 @@
 1363,"California State University, Long Beach",USA,274,,1371,,1299,68.4,csulb.edu
 1364,Pontifical Catholic University of Rio Grande do Sul,Brazil,37,,737,,1317,68.4,pucrs.br
 1365,Sultan Qaboos University,Oman,1,,,,1300,68.4,squ.edu.om
-1366,IShou University,Taiwan,25,,,,1302,68.4,isu.edu.tw
+1366,I-Shou University,Taiwan,25,,,,1302,68.4,isu.edu.tw
 1367,Heilongjiang University,China,175,,1369,,1304,68.3,hlju.edu.cn
 1368,"University of Santiago, Chile",Chile,7,,1009,,1307,68.3,usach.cl
-1369,Polytechnic University of HautsdeFrance,France,64,,,,1305,68.3,uphf.fr
+1369,Polytechnic University of Hauts-de-France,France,64,,,,1305,68.3,uphf.fr
 1370,Feng Chia University,Taiwan,26,,532,,1349,68.3,fcu.edu.tw
 1371,National University of Science and Technology MISiS,Russia,21,,1147,,1309,68.3,misis.ru
 1372,Savitribai Phule Pune University,India,30,527,1314,,1306,68.3,unipune.ac.in
 1373,Karadeniz Technical University,Turkey,28,,1326,,1310,68.3,ktu.edu.tr
 1374,Iran University of Medical Sciences,Iran,17,,,,1308,68.3,iums.ac.ir
-1375,V.A. Steklov Mathematical Institute of the Russian Academy of Sciences,Russia,22,,,240,1536,68.3,miras.ru
+1375,V.A. Steklov Mathematical Institute of the Russian Academy of Sciences,Russia,22,,,240,1536,68.3,mi-ras.ru
 1376,University of Malawi,Malawi,1,,,,1311,68.3,unima.mw
-1377,Witten/Herdecke University,Germany,61,,,,1312,68.3,uniwh.de
+1377,Witten/Herdecke University,Germany,61,,,,1312,68.3,uni-wh.de
 1378,University of Isfahan,Iran,18,,,,1313,68.3,ui.ac.ir
 1379,Grinnell College,USA,275,50,,,,68.3,grinnell.edu
 1380,Zagazig University,Egypt,8,,,,1314,68.3,zu.edu.eg
@@ -1388,11 +1388,11 @@
 1387,University of Beira Interior,Portugal,8,,,,1320,68.3,ubi.pt
 1388,Xi'an University of Technology,China,177,,939,,1331,68.3,xaut.edu.cn
 1389,State University of Londrina,Brazil,38,,,,1322,68.2,uel.br
-1390,TU Ilmenau,Germany,62,,,,1323,68.2,tuilmenau.de
+1390,TU Ilmenau,Germany,62,,,,1323,68.2,tu-ilmenau.de
 1391,Fairfield University,USA,278,,521,,1381,68.2,fairfield.edu
 1392,Silesian University of Technology,Poland,21,,1460,,1324,68.2,polsl.pl
 1393,Ball State University,USA,279,,468,,1389,68.2,bsu.edu
-1394,Kagawa University,Japan,84,,830,,1338,68.2,kagawau.ac.jp
+1394,Kagawa University,Japan,84,,830,,1338,68.2,kagawa-u.ac.jp
 1395,Royal Veterinary College,United Kingdom,75,282,,,1346,68.2,rvc.ac.uk
 1396,University of Greenwich,United Kingdom,76,246,1285,,1366,68.2,gre.ac.uk
 1397,British University in Egypt,Egypt,9,,,,1326,68.2,bue.edu.eg
@@ -1431,7 +1431,7 @@
 1430,Pomeranian Medical University in Szczecin,Poland,22,,,,1360,68.1,pum.edu.pl
 1431,Bohai University,China,183,,,,1361,68.1,bhu.edu.cn
 1432,University of Jordan,Jordan,2,,,,1362,68.1,ju.edu.jo
-1433,University of Veterinary Medicine Hanover,Germany,63,,,,1363,68,tihohannover.de
+1433,University of Veterinary Medicine Hanover,Germany,63,,,,1363,68,tiho-hannover.de
 1434,Manipal Academy of Higher Education,India,33,,970,,1369,68,manipal.edu
 1435,Xinjiang University,China,184,,1269,,1364,68,xju.edu.cn
 1436,Hainan University,China,185,,,,1365,68,hainanu.edu.cn
@@ -1444,13 +1444,13 @@
 1443,Kookmin University,South Korea,45,,1432,,1372,68,kookmin.ac.kr
 1444,"Indian Statistical Institute, Kolkata",India,35,140,,,1519,68,isical.ac.in
 1445,Myongji University,South Korea,46,,1466,,1373,68,mju.ac.kr
-1446,Hamamatsu University School of Medicine,Japan,88,,,,1374,68,hamamed.ac.jp
+1446,Hamamatsu University School of Medicine,Japan,88,,,,1374,68,hama-med.ac.jp
 1447,Doğuş University,Turkey,31,,,,1375,68,dogus.edu.tr
-1448,Freiberg University of Mining and Technology,Germany,64,,,,1376,68,tufreiberg.de
+1448,Freiberg University of Mining and Technology,Germany,64,,,,1376,68,tu-freiberg.de
 1449,Hamburg University of Technology,Germany,65,,,,1377,68,tuhh.de
 1450,Lincoln University,New Zealand,8,,,,1378,68,lincoln.ac.nz
-1451,Wakayama Medical University,Japan,89,,,,1379,68,wakayamamed.ac.jp
-1452,King Saud bin Abdulaziz University for Health Sciences,Saudi Arabia,5,,,,1380,68,ksauhs.edu.sa
+1451,Wakayama Medical University,Japan,89,,,,1379,68,wakayama-med.ac.jp
+1452,King Saud bin Abdulaziz University for Health Sciences,Saudi Arabia,5,,,,1380,68,ksau-hs.edu.sa
 1453,Pontifical Catholic University of Valparaíso,Chile,8,,,,1382,68,pucv.cl
 1454,Eastern Virginia Medical School,USA,286,,,,1383,68,evms.edu
 1455,"Queens College, City University of New York",USA,287,,714,,1405,67.9,qc.cuny.edu
@@ -1467,16 +1467,16 @@
 1466,University of Tulsa,USA,289,,202,,1709,67.9,utulsa.edu
 1467,Skolkovo Institute of Science and Technology,Russia,24,,,,1396,67.9,skoltech.ru
 1468,Norwegian School of Sport Sciences,Norway,8,,,,1397,67.9,nih.no
-1469,Maria CurieSkłodowska University,Poland,23,,1303,,1401,67.9,umcs.pl
+1469,Maria Curie-Skłodowska University,Poland,23,,1303,,1401,67.9,umcs.pl
 1470,Hebei Normal University,China,190,,1146,,1404,67.9,hebtu.edu.cn
-1471,University of TrásosMontes and Alto Douro,Portugal,10,,,,1399,67.9,utad.pt
+1471,University of Trás-os-Montes and Alto Douro,Portugal,10,,,,1399,67.9,utad.pt
 1472,Shiraz University of Medical Sciences,Iran,21,,,,1400,67.9,sums.ac.ir
 1473,Ilia State University,Georgia,2,,,,1402,67.9,iliauni.edu.ge
 1474,Kyushu Institute of Technology,Japan,91,,,,1403,67.9,kyutech.ac.jp
 1475,Claremont Graduate University,USA,290,,,265,1498,67.9,cgu.edu
-1476,Kyoto University of Education,Japan,92,,,,1406,67.9,kyokyou.ac.jp
+1476,Kyoto University of Education,Japan,92,,,,1406,67.9,kyokyo-u.ac.jp
 1477,Southwest Petroleum University,China,191,,1081,,1408,67.9,swpu.edu.cn
-1478,Pontifical Catholic University of Rio de Janeiro,Brazil,40,,295,,1553,67.8,pucrio.br
+1478,Pontifical Catholic University of Rio de Janeiro,Brazil,40,,295,,1553,67.8,puc-rio.br
 1479,Xuzhou Medical University,China,192,,,,1407,67.8,xzhmu.edu.cn
 1480,Federal University of Sergipe,Brazil,41,,,,1409,67.8,ufs.br
 1481,Central Michigan University,USA,291,,1039,,1419,67.8,cmich.edu
@@ -1489,7 +1489,7 @@
 1488,Kocaeli University,Turkey,33,,,,1414,67.8,kocaeli.edu.tr
 1489,Cayetano Heredia Peruvian University,Peru,1,,,,1415,67.8,cayetano.edu.pe
 1490,Education University of Hong Kong,China,193,,,,1416,67.8,eduhk.hk
-1491,University of Avignon,France,66,,,,1417,67.8,univavignon.fr
+1491,University of Avignon,France,66,,,,1417,67.8,univ-avignon.fr
 1492,Ohio Wesleyan University,USA,293,67,148,,,67.8,owu.edu
 1493,Poznań University of Technology,Poland,25,,,,1420,67.8,put.poznan.pl
 1494,Wuhan Institute of Technology,China,194,,,,1421,67.8,wit.edu.cn
@@ -1504,7 +1504,7 @@
 1503,University of Guilan,Iran,22,,,,1430,67.7,guilan.ac.ir
 1504,Anglia Ruskin University,United Kingdom,78,,,,1432,67.7,anglia.ac.uk
 1505,Cleveland State University,USA,294,,871,,1442,67.7,csuohio.edu
-1506,University Paris 1 PanthéonSorbonne,France,68,,546,,1487,67.7,pantheonsorbonne.fr
+1506,University Paris 1 Panthéon-Sorbonne,France,68,,546,,1487,67.7,pantheonsorbonne.fr
 1507,University of New Orleans,USA,295,,,,1433,67.7,uno.edu
 1508,National University of Sciences and Technology,Pakistan,6,,,,1434,67.7,nust.edu.pk
 1509,Trinity University,USA,296,,145,,1950,67.7,trinity.edu
@@ -1521,18 +1521,18 @@
 1520,National Dong Hwa University,Taiwan,29,,,,1445,67.7,ndhu.edu.tw
 1521,University of Niš,Serbia,3,,,,1446,67.7,ni.ac.rs
 1522,Glasgow Caledonian University,United Kingdom,79,,,,1447,67.7,gcu.ac.uk
-1523,University of Trier,Germany,67,,,,1448,67.6,unitrier.de
+1523,University of Trier,Germany,67,,,,1448,67.6,uni-trier.de
 1524,University of Huddersfield,United Kingdom,80,,1447,,1449,67.6,hud.ac.uk
 1525,Guglielmo Marconi University,Italy,59,,,,1450,67.6,unimarconi.it
 1526,Liaocheng University,China,199,,,,1451,67.6,lcu.edu.cn
-1527,École nationale supérieure des beauxarts  BeauxArts de Paris,France,69,41,,,,67.6,beauxartsparis.fr
-1528,Iwate Medical University,Japan,94,,,,1452,67.6,iwatemed.ac.jp
+1527,École nationale supérieure des beaux-arts - Beaux-Arts de Paris,France,69,41,,,,67.6,beauxartsparis.fr
+1528,Iwate Medical University,Japan,94,,,,1452,67.6,iwate-med.ac.jp
 1529,Zhejiang Gongshang University,China,200,,1236,,1457,67.6,zjgsu.edu.cn
 1530,University of Lincoln,United Kingdom,81,,,,1453,67.6,lincoln.ac.uk
 1531,Utah Valley University,USA,298,,,,1454,67.6,uvu.edu
 1532,Rikkyo University,Japan,95,459,424,,1547,67.6,rikkyo.ac.jp
 1533,Tabriz University of Medical Sciences,Iran,23,,,,1455,67.6,tbzmed.ac.ir
-1534,University of Fukui,Japan,96,,,,1456,67.6,ufukui.ac.jp
+1534,University of Fukui,Japan,96,,,,1456,67.6,u-fukui.ac.jp
 1535,University of South Wales,United Kingdom,82,,720,,1484,67.6,southwales.ac.uk
 1536,University of Zambia,Zambia,1,,,,1458,67.6,unza.zm
 1537,Slovak University of Technology in Bratislava,Slovak Republic,3,,,,1459,67.6,stuba.sk
@@ -1542,17 +1542,17 @@
 1541,Incheon National University,South Korea,48,,,,1465,67.6,inu.ac.kr
 1542,Lobachevsky University,Russia,26,,1221,,1467,67.6,unn.ru
 1543,"Federal Institute of Education, Science and Technology of Rio Grande do Sul",Brazil,42,,,,1466,67.6,ifrs.edu.br
-1544,BuAli Sina University,Iran,24,,,,1468,67.6,basu.ac.ir
+1544,Bu-Ali Sina University,Iran,24,,,,1468,67.6,basu.ac.ir
 1545,Medical University of Białystok,Poland,26,,,,1469,67.6,umb.edu.pl
 1546,École nationale supérieure de chimie de Montpellier,France,70,,,,1470,67.6,enscm.fr
 1547,Space Research Institute of the Russian Academy of Sciences,Russia,27,,,258,1633,67.5,iki.rssi.ru
 1548,Poznań University of Life Sciences,Poland,27,,,,1471,67.5,up.poznan.pl
 1549,International Islamic University Malaysia,Malaysia,6,,,,1472,67.5,iium.edu.my
-1550,Iwate University,Japan,97,,,,1473,67.5,iwateu.ac.jp
+1550,Iwate University,Japan,97,,,,1473,67.5,iwate-u.ac.jp
 1551,North China University of Science and Technology,China,201,,,,1474,67.5,ncst.edu.cn
 1552,Semnan University,Iran,25,,,,1475,67.5,semnan.ac.ir
 1553,"National Institute of Technology, Tiruchirappalli",India,36,,344,,1593,67.5,nitt.edu
-1554,Federal University of Technology  Paraná,Brazil,43,,,,1476,67.5,utfpr.edu.br
+1554,Federal University of Technology - Paraná,Brazil,43,,,,1476,67.5,utfpr.edu.br
 1555,University of Peradeniya,Sri Lanka,1,,,,1477,67.5,pdn.ac.lk
 1556,Pontifical Javeriana University,Colombia,5,,1086,,1482,67.5,javeriana.edu.co
 1557,University of North Carolina Wilmington,USA,299,,,,1478,67.5,uncw.edu
@@ -1560,7 +1560,7 @@
 1559,Georgia Southern University,USA,301,,,,1480,67.5,georgiasouthern.edu
 1560,University of Guanajuato,Mexico,13,,1238,,1481,67.5,ugto.mx
 1561,"Indian Institute of Technology (Indian School of Mines), Dhanbad",India,37,,618,,1511,67.5,iitism.ac.in
-1562,"Birla Institute of Technology and Science, Pilani",India,38,,492,,1545,67.5,bitspilani.ac.in
+1562,"Birla Institute of Technology and Science, Pilani",India,38,,492,,1545,67.5,bits-pilani.ac.in
 1563,Seoul National University of Science and Technology,South Korea,49,,,,1485,67.5,seoultech.ac.kr
 1564,Grigore T. Popa University of Medicine and Pharmacy,Romania,8,,,,1486,67.5,umfiasi.ro
 1565,Indian Institute of Technology (BHU) Varanasi,India,39,,1272,,1492,67.5,iitbhu.ac.in
@@ -1568,12 +1568,12 @@
 1567,Shihezi University,China,203,,,,1489,67.5,shzu.edu.cn
 1568,Jackson State University,USA,302,,,,1490,67.5,jsums.edu
 1569,Shanghai Ocean University,China,204,,,,1491,67.5,shou.edu.cn
-1570,Nara Medical University,Japan,98,,,,1493,67.4,naramedu.ac.jp
-1571,IFP School,France,71,,66,,,67.4,ifpschool.com
+1570,Nara Medical University,Japan,98,,,,1493,67.4,naramed-u.ac.jp
+1571,IFP School,France,71,,66,,,67.4,ifp-school.com
 1572,Western Washington University,USA,303,,1113,,1494,67.4,wwu.edu
 1573,Shahid Bahonar University of Kerman,Iran,26,,,,1496,67.4,uk.ac.ir
 1574,Kongju National University,South Korea,50,,,,1497,67.4,kongju.ac.kr
-1575,AlAzhar University,Egypt,12,,1478,,1499,67.4,azhar.edu.eg
+1575,Al-Azhar University,Egypt,12,,1478,,1499,67.4,azhar.edu.eg
 1576,Kwangwoon University,South Korea,51,,,,1500,67.4,kw.ac.kr
 1577,University of Warmia and Mazury in Olsztyn,Poland,28,,,,1501,67.4,uwm.edu.pl
 1578,Ondokuz Mayıs University,Turkey,35,,,,1502,67.4,omu.edu.tr
@@ -1589,7 +1589,7 @@
 1588,Tzu Chi University,Taiwan,30,,,,1514,67.4,tcu.edu.tw
 1589,University of Kragujevac,Serbia,4,,,,1515,67.4,kg.ac.rs
 1590,Indian Institute of Technology Indore,India,41,,,,1516,67.4,iiti.ac.in
-1591,Düsseldorf Art Academy,Germany,68,108,,122,,67.4,kunstakademieduesseldorf.de
+1591,Düsseldorf Art Academy,Germany,68,108,,122,,67.4,kunstakademie-duesseldorf.de
 1592,Laurentian University,Canada,37,,472,,1592,67.4,laurentian.ca
 1593,MARA University of Technology,Malaysia,7,,,,1517,67.4,uitm.edu.my
 1594,Marshall University,USA,305,443,347,,1663,67.3,marshall.edu
@@ -1602,7 +1602,7 @@
 1601,Istanbul Bilgi University,Turkey,36,,,,1524,67.3,bilgi.edu.tr
 1602,Tôn Đức Thắng University,Vietnam,2,,,,1526,67.3,tdtu.edu.vn
 1603,Chengdu University of Technology,China,210,,,,1527,67.3,cdut.edu.cn
-1604,Aichi Medical University,Japan,99,,,,1528,67.3,aichimedu.ac.jp
+1604,Aichi Medical University,Japan,99,,,,1528,67.3,aichi-med-u.ac.jp
 1605,Federal Rural University of Pernambuco,Brazil,44,,,,1529,67.3,ufrpe.br
 1606,College of Charleston,USA,307,,,,1530,67.3,cofc.edu
 1607,University of Massachusetts Dartmouth,USA,308,,1166,,1537,67.3,umassd.edu
@@ -1614,8 +1614,8 @@
 1613,Cooper Union,USA,309,52,551,,,67.3,cooper.edu
 1614,Istanbul Aydın University,Turkey,38,,,,1538,67.3,aydin.edu.tr
 1615,St. John's University,USA,310,,204,,1904,67.3,stjohns.edu
-1616,University of La Rochelle,France,72,,,,1539,67.3,univlarochelle.fr
-1617,GangneungWonju National University,South Korea,52,,,,1540,67.3,gwnu.ac.kr
+1616,University of La Rochelle,France,72,,,,1539,67.3,univ-larochelle.fr
+1617,Gangneung-Wonju National University,South Korea,52,,,,1540,67.3,gwnu.ac.kr
 1618,Architectural Association School of Architecture,United Kingdom,85,44,,,,67.3,aaschool.ac.uk
 1619,Yantai University,China,212,,,,1541,67.2,ytu.edu.cn
 1620,Kingston University,United Kingdom,86,454,541,,1597,67.2,kingston.ac.uk
@@ -1639,15 +1639,15 @@
 1638,University of La Rioja,Spain,51,,,,1560,67.2,unirioja.es
 1639,University of Indonesia,Indonesia,1,,688,,1587,67.2,ui.ac.id
 1640,Ariel University,Israel,8,,,,1563,67.2,ariel.ac.il
-1641,Bharathiar University,India,43,,1395,,1565,67.2,bu.ac.in
+1641,Bharathiar University,India,43,,1395,,1565,67.2,b-u.ac.in
 1642,Moscow Conservatory,Russia,29,45,,,,67.2,mosconsv.ru
 1643,Catholic University of Portugal,Portugal,11,,594,,1606,67.1,ucp.pt
-1644,University of Québec at TroisRivières,Canada,38,,,,1564,67.1,uqtr.ca
+1644,University of Québec at Trois-Rivières,Canada,38,,,,1564,67.1,uqtr.ca
 1645,Saint Mary's University,Canada,39,,1120,,1570,67.1,smu.ca
 1646,Thammasat University,Thailand,8,,511,,1640,67.1,tu.ac.th
 1647,Appalachian State University,USA,315,,1266,,1568,67.1,appstate.edu
 1648,North University of China,China,221,,,,1566,67.1,nuc.edu.cn
-1649,Kyorin University,Japan,100,,,,1567,67.1,kyorinu.ac.jp
+1649,Kyorin University,Japan,100,,,,1567,67.1,kyorin-u.ac.jp
 1650,Southern Federal University,Russia,30,,,,1569,67.1,sfedu.ru
 1651,Technological Institute of Aeronautics,Brazil,45,,141,,,67.1,ita.br
 1652,Catholic University of the North,Chile,11,,,,1571,67.1,ucn.cl
@@ -1655,7 +1655,7 @@
 1654,Beijing University of Chinese Medicine,China,222,,,,1574,67.1,bucm.edu.cn
 1655,Nelson Mandela University,South Africa,12,,1212,,1577,67.1,mandela.ac.za
 1656,Indian Institute of Technology Hyderabad,India,44,,,,1575,67.1,iith.ac.in
-1657,Akita University,Japan,101,,,,1576,67.1,akitau.ac.jp
+1657,Akita University,Japan,101,,,,1576,67.1,akita-u.ac.jp
 1658,Chapman University,USA,316,,875,,1586,67.1,chapman.edu
 1659,Duy Tân University,Vietnam,3,,,,1578,67.1,duytan.edu.vn
 1660,Changchun University of Science and Technology,China,223,,,,1579,67.1,cust.edu.cn
@@ -1678,17 +1678,17 @@
 1677,Central University of Venezuela,Venezuela,1,,1427,,1595,67,ucv.ve
 1678,Central European University,Hungary,7,,,,1596,67,ceu.edu
 1679,Oslo Metropolitan University,Norway,12,,,,1600,67,oslomet.no
-1680,University of Shizuoka,Japan,103,,963,,1616,67,ushizuokaken.ac.jp
+1680,University of Shizuoka,Japan,103,,963,,1616,67,u-shizuoka-ken.ac.jp
 1681,Guangdong Medical University,China,225,,,,1601,67,gdmu.edu.cn
 1682,Harbin University of Science and Technology,China,226,,,,1602,67,hrbust.edu.cn
 1683,Kansai Medical University,Japan,104,,,,1603,67,kmu.ac.jp
 1684,Central Queensland University,Australia,37,,,,1604,67,cqu.edu.au
 1685,Yangtze University,China,227,,936,,1619,67,yangtzeu.edu.cn
 1686,Wellesley College,USA,320,,630,,1648,67,wellesley.edu
-1687,St. Marianna University School of Medicine,Japan,105,,,,1605,67,mariannau.ac.jp
+1687,St. Marianna University School of Medicine,Japan,105,,,,1605,67,marianna-u.ac.jp
 1688,Eulji University,South Korea,54,,,,1607,67,eulji.ac.kr
-1689,ISCTE – University Institute of Lisbon,Portugal,12,,593,,1662,67,iscteiul.pt
-1690,University of KoblenzLandau,Germany,69,,,,1608,67,unikoblenzlandau.de
+1689,ISCTE – University Institute of Lisbon,Portugal,12,,593,,1662,67,iscte-iul.pt
+1690,University of Koblenz-Landau,Germany,69,,,,1608,67,uni-koblenz-landau.de
 1691,Catholic University of Daegu,South Korea,55,,,,1609,67,cu.ac.kr
 1692,Kütahya Dumlupınar University,Turkey,40,,,,1610,67,dumlupinar.edu.tr
 1693,"University of Puerto Rico, Río Piedras Campus",USA,321,,,,1611,66.9,uprrp.edu
@@ -1697,7 +1697,7 @@
 1696,Federal University of Rio Grande,Brazil,47,,,,1614,66.9,furg.br
 1697,Paris Nanterre University,France,73,,604,,1664,66.9,parisnanterre.fr
 1698,Hunan University of Science and Technology,China,228,,,,1615,66.9,hnust.edu.cn
-1699,Institut supérieur de l'aéronautique et de l'espace,France,74,,183,,,66.9,isaesupaero.fr
+1699,Institut supérieur de l'aéronautique et de l'espace,France,74,,183,,,66.9,isae-supaero.fr
 1700,Transilvania University of Brașov,Romania,9,,,,1617,66.9,unitbv.ro
 1701,Kyoto Institute of Technology,Japan,107,,,,1618,66.9,kit.ac.jp
 1702,University of Westminster,United Kingdom,88,288,1082,,1654,66.9,westminster.ac.uk
@@ -1712,7 +1712,7 @@
 1711,Meiji University,Japan,108,,708,,1652,66.9,meiji.ac.jp
 1712,Shenyang Agricultural University,China,229,,,,1627,66.9,syau.edu.cn
 1713,National University of Comahue,Argentina,9,,,,1628,66.9,uncoma.edu.ar
-1714,Oita University,Japan,109,,,,1629,66.9,oitau.ac.jp
+1714,Oita University,Japan,109,,,,1629,66.9,oita-u.ac.jp
 1715,Yazd University,Iran,28,,,,1630,66.9,yazd.ac.ir
 1716,University of Gondar,Ethiopia,2,,,,1631,66.9,uog.edu.et
 1717,Mendel University in Brno,Czech Republic,9,,,,1632,66.9,mendelu.cz
@@ -1735,7 +1735,7 @@
 1734,"Vietnam National University, Ho Chi Minh City",Vietnam,4,,,,1656,66.8,vnuhcm.edu.vn
 1735,San Francisco de Quito University,Ecuador,1,,,,1657,66.8,usfq.edu.ec
 1736,V.M. Glushkov Institute of Cybernetics of the National Academy of Sciences of Ukraine,Ukraine,3,,,,1658,66.8,incyb.kiev.ua
-1737,Kawasaki Medical School,Japan,111,,,,1659,66.8,kawasakim.ac.jp
+1737,Kawasaki Medical School,Japan,111,,,,1659,66.8,kawasaki-m.ac.jp
 1738,Nanchang Hangkong University,China,231,,,,1660,66.8,nchu.edu.cn
 1739,Franklin & Marshall College,USA,325,111,894,,,66.8,fandm.edu
 1740,Federal University of Campina Grande,Brazil,49,,,,1661,66.8,ufcg.edu.br
@@ -1755,7 +1755,7 @@
 1754,Sechenov University,Russia,37,,1444,,1679,66.7,sechenov.ru
 1755,University of Mazandaran,Iran,31,,,,1677,66.7,umz.ac.ir
 1756,IE University,Spain,52,,140,,,66.7,ie.edu
-1757,Osaka Medical College,Japan,113,,,,1680,66.7,osakamed.ac.jp
+1757,Osaka Medical College,Japan,113,,,,1680,66.7,osaka-med.ac.jp
 1758,University of the Philippines Diliman,Philippines,3,,,,1681,66.7,upd.edu.ph
 1759,Zhejiang Chinese Medical University,China,234,,,,1682,66.7,zcmu.edu.cn
 1760,Cyprus University of Technology,Cyprus,2,,,,1683,66.7,cut.ac.cy
@@ -1763,7 +1763,7 @@
 1762,University of Malta,Malta,1,,,,1685,66.7,um.edu.mt
 1763,Diego Portales University,Chile,12,,,,1686,66.7,udp.cl
 1764,Manisa Celal Bayar University,Turkey,43,,,,1688,66.7,mcbu.edu.tr
-1765,University of SouthEastern Norway,Norway,13,,,,1689,66.7,usn.no
+1765,University of South-Eastern Norway,Norway,13,,,,1689,66.7,usn.no
 1766,"Goldsmiths, University of London",United Kingdom,90,303,,,1714,66.7,gold.ac.uk
 1767,Yunnan Normal University,China,235,,,,1690,66.7,ynnu.edu.cn
 1768,University of Madras,India,50,428,510,,1783,66.7,unom.ac.in
@@ -1775,16 +1775,16 @@
 1774,Alfaisal University,Saudi Arabia,6,,,,1693,66.6,alfaisal.edu
 1775,Başkent University,Turkey,44,,,,1695,66.6,baskent.edu.tr
 1776,Annamalai University,India,51,526,,,1696,66.6,annamalaiuniversity.ac.in
-1777,Kanagawa University,Japan,114,,,,1697,66.6,kanagawau.ac.jp
+1777,Kanagawa University,Japan,114,,,,1697,66.6,kanagawa-u.ac.jp
 1778,Mid Sweden University,Sweden,15,,1456,,1698,66.6,miun.se
 1779,Karlstad University,Sweden,16,,1134,,1703,66.6,kau.se
-1780,University of Technology of BelfortMontbéliard,France,77,,,,1699,66.6,utbm.fr
+1780,University of Technology of Belfort-Montbéliard,France,77,,,,1699,66.6,utbm.fr
 1781,Henan University of Technology,China,236,,,,1700,66.6,haut.edu.cn
 1782,Jamia Millia Islamia,India,52,,,,1701,66.6,jmi.ac.in
-1783,Free University of BozenBolzano,Italy,63,,,,1702,66.6,unibz.it
+1783,Free University of Bozen-Bolzano,Italy,63,,,,1702,66.6,unibz.it
 1784,Federal University of Ouro Preto,Brazil,50,,,,1704,66.6,ufop.br
 1785,University of Valle,Colombia,6,,,,1705,66.6,univalle.edu.co
-1786,University of La Réunion,France,78,,,,1706,66.6,univreunion.fr
+1786,University of La Réunion,France,78,,,,1706,66.6,univ-reunion.fr
 1787,University of Karachi,Pakistan,7,,,,1707,66.6,uok.edu.pk
 1788,Pamukkale University,Turkey,45,,,,1708,66.6,pau.edu.tr
 1789,Bond University,Australia,39,,,,1710,66.6,bond.edu.au
@@ -1794,9 +1794,9 @@
 1793,Indian Institute of Technology Bhubaneswar,India,53,,,,1713,66.6,iitbbs.ac.in
 1794,University of Dhaka,Bangladesh,1,,,,1715,66.6,du.ac.bd
 1795,China West Normal University,China,239,,,,1716,66.6,cwnu.edu.cn
-1796,IHE Delft Institute for Water Education,Netherlands,14,,,,1717,66.5,unihe.org
+1796,IHE Delft Institute for Water Education,Netherlands,14,,,,1717,66.5,un-ihe.org
 1797,Rajiv Gandhi University of Health Sciences,India,54,,,,1718,66.5,rguhs.ac.in
-1798,Le Mans University,France,79,,,,1719,66.5,univlemans.fr
+1798,Le Mans University,France,79,,,,1719,66.5,univ-lemans.fr
 1799,Xinjiang Medical University,China,240,,,,1720,66.5,xjmu.edu.cn
 1800,University of Agriculture in Krakow,Poland,29,,,,1721,66.5,urk.edu.pl
 1801,Kennesaw State University,USA,329,,,,1722,66.5,kennesaw.edu
@@ -1806,28 +1806,28 @@
 1805,University of Burgos,Spain,53,,,,1728,66.5,ubu.es
 1806,University of Zielona Góra,Poland,30,,,,1729,66.5,uz.zgora.pl
 1807,University of Bialystok,Poland,31,,,,1730,66.5,uwb.edu.pl
-1808,Clausthal University of Technology,Germany,70,,683,,1775,66.5,tuclausthal.de
+1808,Clausthal University of Technology,Germany,70,,683,,1775,66.5,tu-clausthal.de
 1809,University of Winnipeg,Canada,40,,,,1731,66.5,uwinnipeg.ca
 1810,Suranaree University of Technology,Thailand,10,,,,1732,66.5,sut.ac.th
 1811,Wrocław University of Environmental and Life Sciences,Poland,32,,,,1733,66.5,upwr.edu.pl
 1812,Federal Rural University of Rio de Janeiro,Brazil,51,,,,1734,66.5,ufrrj.br
 1813,University of Sharjah,United Arab Emirates,3,,,,1735,66.5,sharjah.ac.ae
 1814,Guru Nanak Dev University,India,55,,1378,,1736,66.5,gndu.ac.in
-1815,Nara Women's University,Japan,115,,,,1737,66.5,narawu.ac.jp
+1815,Nara Women's University,Japan,115,,,,1737,66.5,nara-wu.ac.jp
 1816,University of Roehampton,United Kingdom,92,,,,1738,66.5,roehampton.ac.uk
 1817,Florida Agricultural and Mechanical University,USA,330,,,,1739,66.5,famu.edu
 1818,University of Alaska Anchorage,USA,331,,,,1740,66.5,uaa.alaska.edu
 1819,Minia University,Egypt,15,,,,1741,66.5,minia.edu.eg
 1820,Autonomous University of the State of Morelos,Mexico,14,,,,1742,66.5,uaem.mx
 1821,Kettering University,USA,332,,95,,,66.5,kettering.edu
-1822,Kanazawa Medical University,Japan,116,,,,1743,66.4,kanazawamed.ac.jp
+1822,Kanazawa Medical University,Japan,116,,,,1743,66.4,kanazawa-med.ac.jp
 1823,Interdisciplinary Center Herzliya,Israel,9,,519,,1827,66.4,idc.ac.il
 1824,Institute of Ecology (INECOL),Mexico,15,,,,1744,66.4,inecol.mx
 1825,Far Eastern Federal University,Russia,39,,,,1746,66.4,dvfu.ru
 1826,Xavier University,USA,333,,115,,,66.4,xavier.edu
 1827,University of Talca,Chile,13,,,,1747,66.4,utalca.cl
 1828,National Changhua University of Education,Taiwan,33,,,,1748,66.4,ncue.edu.tw
-1829,Kansai University,Japan,117,,744,,1785,66.4,kansaiu.ac.jp
+1829,Kansai University,Japan,117,,744,,1785,66.4,kansai-u.ac.jp
 1830,Aoyama Gakuin University,Japan,118,,565,,1817,66.4,aoyama.ac.jp
 1831,Van Yüzüncü Yıl University,Turkey,46,,,,1749,66.4,yyu.edu.tr
 1832,University of Peshawar,Pakistan,8,,,,1750,66.4,uop.edu.pk
@@ -1840,9 +1840,9 @@
 1839,Humanitas University,Italy,64,,,,1757,66.4,hunimed.eu
 1840,Duquesne University,USA,334,,820,,1784,66.4,duq.edu
 1841,Guilin University of Technology,China,244,,,,1759,66.4,glut.edu.cn
-1842,EmbryRiddle Aeronautical University,USA,335,,,,1760,66.4,erau.edu
+1842,Embry-Riddle Aeronautical University,USA,335,,,,1760,66.4,erau.edu
 1843,Shanghai University of Electric Power,China,245,,,,1761,66.4,shiep.edu.cn
-1844,Kyoto Sangyo University,Japan,119,,1087,243,,66.4,kyotosu.ac.jp
+1844,Kyoto Sangyo University,Japan,119,,1087,243,,66.4,kyoto-su.ac.jp
 1845,University of Northern British Columbia,Canada,41,,,,1762,66.4,unbc.ca
 1846,National Yunlin University of Science and Technology,Taiwan,34,,,,1763,66.4,yuntech.edu.tw
 1847,Malmö University,Sweden,17,,,,1764,66.4,mau.se
@@ -1868,7 +1868,7 @@
 1867,"West Pomeranian University of Technology, Szczecin",Poland,34,,,,1789,66.3,zut.edu.pl
 1868,Nagaoka University of Technology,Japan,120,,,,1791,66.3,nagaokaut.ac.jp
 1869,Mediterranean University of Reggio Calabria,Italy,65,,,,1792,66.3,unirc.it
-1870,Sohag University,Egypt,16,,,,1793,66.3,sohaguniv.edu.eg
+1870,Sohag University,Egypt,16,,,,1793,66.3,sohag-univ.edu.eg
 1871,Edinburgh Napier University,United Kingdom,93,,,,1794,66.3,napier.ac.uk
 1872,İnönü University,Turkey,48,,,,1795,66.3,inonu.edu.tr
 1873,Rosalind Franklin University of Medicine and Science,USA,339,,,,1796,66.3,rosalindfranklin.edu
@@ -1878,7 +1878,7 @@
 1877,PETRONAS University of Technology,Malaysia,8,,,,1800,66.2,utp.edu.my
 1878,Chongqing Normal University,China,250,,,,1801,66.2,cqnu.edu.cn
 1879,Reykjavík University,Iceland,2,,,,1802,66.2,ru.is
-1880,"University of Djillali Liabès, Sidi BelAbbès",Algeria,2,,,,1803,66.2,univsba.dz
+1880,"University of Djillali Liabès, Sidi Bel-Abbès",Algeria,2,,,,1803,66.2,univ-sba.dz
 1881,Bahçeşehir University,Turkey,50,,,,1804,66.2,bau.edu.tr
 1882,University of Nigeria,Nigeria,2,,1485,,1805,66.2,unn.edu.ng
 1883,Ensenada Center for Scientific Research and Higher Education,Mexico,17,,,,1806,66.2,cicese.edu.mx
@@ -1919,16 +1919,16 @@
 1918,Dalarna University,Sweden,19,,,,1841,66.1,du.se
 1919,Gakushuin University,Japan,123,,258,,,66.1,univ.gakushuin.ac.jp
 1920,Jimma University,Ethiopia,4,,,,1842,66.1,ju.edu.et
-1921,Siberian Federal University,Russia,44,,,,1843,66.1,sfukras.ru
+1921,Siberian Federal University,Russia,44,,,,1843,66.1,sfu-kras.ru
 1922,Western Kentucky University,USA,346,,,,1845,66.1,wku.edu
 1923,Sophia University,Japan,124,,376,,2000,66.1,sophia.ac.jp
-1924,Lyon 2 University,France,80,,1047,,1849,66.1,univlyon2.fr
-1925,Danube University Krems,Austria,17,,,,1846,66.1,donauuni.ac.at
+1924,Lyon 2 University,France,80,,1047,,1849,66.1,univ-lyon2.fr
+1925,Danube University Krems,Austria,17,,,,1846,66.1,donau-uni.ac.at
 1926,"Indian Institute of Science Education and Research, Bhopal",India,58,,,,1847,66.1,iiserb.ac.in
 1927,University of Québec at Chicoutimi,Canada,42,,,,1848,66.1,uqac.ca
 1928,Harbin Normal University,China,256,,1376,,1850,66.1,hrbnu.edu.cn
-1929,University of Pannonia,Hungary,8,,,,1851,66.1,unipannon.hu
-1930,Asahikawa Medical University,Japan,125,,,,1852,66.1,asahikawamed.ac.jp
+1929,University of Pannonia,Hungary,8,,,,1851,66.1,uni-pannon.hu
+1930,Asahikawa Medical University,Japan,125,,,,1852,66.1,asahikawa-med.ac.jp
 1931,P.P. Shirshov Institute of Oceanology of the Russian Academy of Sciences,Russia,45,,,,1853,66,ocean.ru
 1932,University of the Pacific,USA,347,,800,,1876,66,pacific.edu
 1933,University of Rzeszów,Poland,35,,,,1854,66,ur.edu.pl
@@ -1943,7 +1943,7 @@
 1942,"National Institute of Pharmaceutical Education and Research, S.A.S. Nagar",India,59,,,,1863,66,niper.nic.in
 1943,Linyi University,China,257,,,,1864,66,lyu.edu.cn
 1944,Ningxia Medical University,China,258,,,,1865,66,nxmu.edu.cn
-1945,Xi'an JiaotongLiverpool University,China,259,,,,1866,66,xjtlu.edu.cn
+1945,Xi'an Jiaotong-Liverpool University,China,259,,,,1866,66,xjtlu.edu.cn
 1946,University of Hawaii at Hilo,USA,348,,,,1867,66,hilo.hawaii.edu
 1947,Bharathidasan University,India,60,,,,1868,66,bdu.ac.in
 1948,Federal University of Amazonas,Brazil,55,,,,1870,66,ufam.edu.br
@@ -1956,7 +1956,7 @@
 1955,École nationale supérieure de formation de l’enseignement agricole,France,81,,,,1877,66,ensfea.fr
 1956,Shiraz University of Technology,Iran,35,,,,1878,66,sutech.ac.ir
 1957,Lebanese University,Lebanon,2,,,,1880,66,ul.edu.lb
-1958,Royal Military College of Canada,Canada,44,,1185,,1883,66,rmccmr.ca
+1958,Royal Military College of Canada,Canada,44,,1185,,1883,66,rmc-cmr.ca
 1959,Near East University,Northern Cyprus,1,,,,1881,65.9,neu.edu.tr
 1960,Sam Houston State University,USA,352,,1446,,1882,65.9,shsu.edu
 1961,Lafayette College,USA,353,122,742,,,65.9,lafayette.edu
