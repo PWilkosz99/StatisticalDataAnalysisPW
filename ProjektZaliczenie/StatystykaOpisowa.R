@@ -1,7 +1,7 @@
 data <- read.csv( "universities V1.1.csv" )
 
 data <- data[-(11)] # dane z NA lata 2012 - 2013
-
+print(data$Overall_Ranking)
 summary(data)
 
 ## ------------- Citations ------------- ##

@@ -1,52 +1,38 @@
 data <- read.csv("cwurData.csv")
 
-data <- data[-(11)] # dane z NA lata 2012 - 2013
-data <- data[-(2)] 
-data <- data[-(2)] 
 
-
-
-
-str(data)
 head(data)
 
 summary(data)
-unique(data$country)
 nrow(data)
 
 library(dplyr)
 
 ## korelacja wybranych zminennych
 
-cor.test(data$world_rank, data$publications)
-cor.test(data$world_rank, data$citations)
-cor.test(data$publications, data$citations)
-
-
+cor.test(data$Teaching, data$Research)
+cor.test(data$Teaching, data$Citations)
 
 ## wykres rozrzutu
 
-plot(data$world_rank, data$publications)
-plot(data$world_rank, data$citations)
-plot(data$publications, data$citations)
+plot(data$Teaching, data$Research)
+plot(data$Teaching, data$Citations)
+
 abline(1, 1)
 
 #model
 
-model1 <- lm(data$world_rank~data$publications)
-model2 <- lm(data$world_rank~data$citations)
-model3 <- lm(data$publications~data$citations)
+model1 <- lm(data$Teaching~data$Research)
+
 
 
 summary(model1)
-summary(model2)
-summary(model3)
+
 
 # wykres obserwacji
 
 abline(model1, col="red")
-abline(model2, col = "red")
-abline(model3, col = "red")
+
 
 # weryfikacja
 #szukanie powiazan
@@ -59,32 +45,29 @@ abline(model3, col = "red")
 
 # analiza reszt
 
-plot(data$world_rank, model1$residuals, ylab = 'Rezydua')
-plot(data$world_rank, model2$residuals, ylab = 'Rezydua')
-plot(data$publications, model3$residuals, ylab = 'Rezydua')
+plot(data$Teaching, model1$residuals, ylab = 'Rezydua')
 
-abline(h = 0, lty = 2, col = "green")
+summary(data$Teaching)
+summary(data$Research)
 
+
+abline(h = 0, lty = 2, col = "green")abline(v = 50, lty = 2, col = "red")
 # qq
 
 qqnorm(model1$residuals)
 qqline(model1$residuals,col = 'red')
-qqnorm(model2$residuals)
-qqline(model2$residuals, col = 'red')
 
-qqnorm(model3$residuals)
-qqline(model3$residuals, col = 'red')
 
 # sahpiro sie nie stosuje dla takiej ilosci danych
-shapiro.test(model1$residuals)shapiro.test(model2$residuals)shapiro.test(model3$residuals)
+shapiro.test(model1$residuals)
 # nieobciazonosc reszt
-mean(model1$residuals)mean(model2$residuals)mean(model3$residuals)
+mean(model1$residuals)
 
 
 # homo homo
 
 
-library(lmtest)bptest(model1)bptest(model2)bptest(model3)
+library(lmtest)bptest(model1)
 model1$r.squared
 
 ##                   2222                   ###
