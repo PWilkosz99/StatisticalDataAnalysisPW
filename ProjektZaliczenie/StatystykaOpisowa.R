@@ -1,7 +1,8 @@
-data <- read.csv( "cwurData.csv" )
+data <- read.csv( "universities V1.1.csv" )
 
 data <- data[-(11)] # dane z NA lata 2012 - 2013
 
+summary(data)
 
 ## ------------- Citations ------------- ##
 
@@ -41,3 +42,5 @@ quantile(data$patents) #kwantyle
 rozstep <- max(data$patents) - min(data$patents)
 print(rozstep)
 rm(rozstep)
+
+data <- data[!df$V2 == "null", ] 

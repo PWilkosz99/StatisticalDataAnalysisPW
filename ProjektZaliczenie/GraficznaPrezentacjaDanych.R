@@ -1,4 +1,9 @@
 data <- read.csv("cwurData.csv")
+data <- read.csv("universities_V1.1.csv")
+
+library(tidyverse)
+
+replace_na(data$research_performance, median(data$research_performance, na.rm = TRUE))
 
 # ---Citations---
 
