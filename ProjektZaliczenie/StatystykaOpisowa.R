@@ -4,43 +4,44 @@ data <- data[-(11)] # dane z NA lata 2012 - 2013
 
 summary(data)
 
-## ------------- Citations ------------- ##
+## ------------- rank ------------- ##
 
-summary(data$citations) 
-
-library(modeest)
-mlv(data$citations, method = "mfv") #moda
-
-library(moments)
-skewness(data$citations) #skoœnoœc
-
-sd(data$citations) #odchylenie
-
-var(data$citations) #wariancja
-
-quantile(data$citations) #kwantyle
-
-rozstep <- max(data$citations) - min(data$citations)
-rm(rozstep)
-
-## ------------- Patents ------------- ##
-
-summary(data$patents) 
+summary(data$rank) 
 
 library(modeest)
-mlv(data$patents, method = "mfv") #moda
+mlv(data$rank, method = "mfv") #moda
 
 library(moments)
-skewness(data$patents) #skoœnoœc
+skewness(data$rank) #skoœnoœc
 
-sd(data$patents) #odchylenie
+sd(data$rank) #odchylenie
 
-var(data$patents) #wariancja
+var(data$rank) #wariancja
 
-quantile(data$patents) #kwantyle
+quantile(data$rank) #kwantyle
 
-rozstep <- max(data$patents) - min(data$patents)
+rozstep <- max(data$rank) - min(data$rank)
 print(rozstep)
 rm(rozstep)
 
-data <- data[!df$V2 == "null", ] 
+## ------------- research_performance ------------- ##
+
+summary(data$research_performance) 
+
+library(modeest)
+mlv(data$research_performance, method = "mfv") #moda
+
+library(moments)
+skewness(data$research_performance) #skoœnoœc
+
+sd(data$research_performance) #odchylenie
+
+var(data$research_performance) #wariancja
+
+quantile(data$research_performance) #kwantyle
+
+rozstep <- max(data$research_performance) - min(data$research_performance)
+print(rozstep)
+rm(rozstep)
+
+#data <- data[!df$V2 == "null", ] 

@@ -18,24 +18,24 @@ library(dplyr)
 
 ## korelacja wybranych zminennych
 
-cor.test(data$world_rank, data$publications)
-cor.test(data$world_rank, data$citations)
-cor.test(data$publications, data$citations)
+cor.test(data$rank, data$research_performance)
+cor.test(data$rank, data$score)
+cor.test(data$research_performance, data$score)
 
 
 
 ## wykres rozrzutu
 
-plot(data$world_rank, data$publications)
-plot(data$world_rank, data$citations)
-plot(data$publications, data$citations)
+plot(data$rank, data$research_performance)
+plot(data$rank, data$score)
+plot(data$research_performance, data$score)
 abline(1, 1)
 
 #model
 
-model1 <- lm(data$world_rank~data$publications)
-model2 <- lm(data$world_rank~data$citations)
-model3 <- lm(data$publications~data$citations)
+model1 <- lm(data$rank~data$research_performance)
+model2 <- lm(data$rank~data$score)
+model3 <- lm(data$research_performance~data$score)
 
 
 summary(model1)
@@ -59,9 +59,9 @@ abline(model3, col = "red")
 
 # analiza reszt
 
-plot(data$world_rank, model1$residuals, ylab = 'Rezydua')
-plot(data$world_rank, model2$residuals, ylab = 'Rezydua')
-plot(data$publications, model3$residuals, ylab = 'Rezydua')
+plot(data$rank, model1$residuals, ylab = 'Rezydua')
+plot(data$rank, model2$residuals, ylab = 'Rezydua')
+plot(data$research_performance, model3$residuals, ylab = 'Rezydua')
 
 abline(h = 0, lty = 2, col = "green")
 
@@ -91,7 +91,7 @@ model1$r.squared
 
 
 library(dplyr)
-data<- select(data, "world_rank", "publications", "citations")
+data<- select(data, "rank", "research_performance", "score")
 
 
 #install.packages("GGally")
@@ -101,14 +101,14 @@ ggcorr(data, label = T)
 
 #H1_0: r1=0,   H1_1: r1!=0,   alfa=.05
 
-cor.test(data$world_rank, data$publications)
-str(cor.test(data$world_rank, data$publications))
+cor.test(data$rank, data$research_performance)
+str(cor.test(data$rank, data$research_performance))
 
 #p<alfa - odrzucamy H1_0 - na poziomie istotnosci alfa korelacja jest istotna statystycznie
 
 
 #MODEL ALL
-model_all <- lm(formula =  data$world_rank ~ .,data = data)
+model_all <- lm(formula =  data$rank ~ .,data = data)
 summary(model_all)
 
 
@@ -121,7 +121,7 @@ summary(model_all)
 
 #analizy reszt
 #1. losowosc
-plot(data$world_rank, model_all$residuals)
+plot(data$rank, model_all$residuals)
 abline(h = 0)
 
 #2. normalnosc
