@@ -12,10 +12,10 @@ mu<-mean(data$Teaching)
 sigma<-sd(data$Teaching)
 
 #90% /chyba
-round(mu+c(-1,1)*sigma/sqrt(32)*qnorm(.95),2)
+round(mu+c(-1,1)*sigma/sqrt(nrow(data))*qnorm(.95),2)
 
 #95% /chyba
-round(mu+c(-1,1)*sigma/sqrt(32)*qnorm(.975),2)
+round(mu+c(-1,1)*sigma/sqrt(nrow(data))*qnorm(.975),2)
 
 # ---Research---
 
@@ -28,7 +28,8 @@ sigma<-sd(data$Research)
 round(mu+c(-1,1)*sigma/sqrt(32)*qnorm(.95),2)
 
 #95% /chyba
-round(mu+c(-1,1)*sigma/sqrt(32)*qnorm(.975),2)
+round(mu+c(-1,1)*sigma/sqrt(nrow(data))*qnorm(.975),2)
 
 
 t.test(data$Teaching, conf.level = 0.95)
+t.test(data$Research, conf.level = 0.95)

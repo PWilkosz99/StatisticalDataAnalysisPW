@@ -1,38 +1,36 @@
-data <- read.csv("cwurData.csv")
-data <- read.csv("universities_V1.1.csv")
-
 library(tidyverse)
 
-model1 <- lm(data$International_Outlook~data$International_Students)
+model1 <- lm(data$Teaching~data$Research)
 
-# ---International_Outlook---
-
-##Ramka wasy
-ggplot(data,aes(x=International_Outlook))+
-  geom_boxplot(fill="blue", outlier.colour = "darkred", alpha=0.6,outlier.shape =4, coef=1.5) +
-  coord_flip()+labs(x="Wiek", title="Wykres ramka-wasy dla wieku")
-
-#Histogram
-ggplot(data,aes(x=data$International_Outlook))+
-  geom_histogram(breaks=seq(15,250,10), color="black",fill="blue",alpha=0.5)+
-  labs(      
-    x = "International_Outlook",
-    y = "Licznosc",
-    title="Histogram dla International_Outlook")
-
-# ---International_Students---
+# ---Teaching---
 
 ##Ramka wasy
-ggplot(data,aes(x=International_Students))+
-  geom_boxplot(fill="blue", outlier.colour = "darkred", alpha=0.6,outlier.shape =4, coef=1.5) +
-  coord_flip()+labs(x="Wiek", title="Wykres ramka-wasy dla wieku")
+ggplot(data,aes(x=Teaching))+
+  geom_boxplot(fill="chartreuse4", outlier.colour = "indianred3", alpha=0.6,outlier.shape =4, coef=1.5) +
+  coord_flip()+labs(x="Ocena", title="Wykres ramka-wasy dla oceny nauczania")
 
 #Histogram
-ggplot(data,aes(x=data$International_Students))+
-  geom_histogram(breaks=seq(0,1,0.05), color="black",fill="blue",alpha=0.5)+
+ggplot(data,aes(x=Teaching))+
+  geom_histogram(breaks=seq(0,100,10), color="black",fill="chartreuse4",alpha=0.75)+
   labs(      
-    x = "International_Students",
-    y = "Licznosc",
-    title="Histogram dla International_Students")
+    x = "Ocena nauczania",
+    y = "Licznoœæ",
+    title="Histogram oceny nauczania")
+
+# ---Research---
+
+##Ramka wasy
+ggplot(data,aes(x=Research))+
+  geom_boxplot(fill="goldenrod1", outlier.colour = "red", alpha=0.6,outlier.shape =4, coef=1.5) +
+  coord_flip()+labs(x="Ocena", title="Wykres ramka-wasy dla oceny badañ")
+
+#Histogram
+ggplot(data,aes(x=Research))+
+  geom_histogram(breaks=seq(0,100,10), color="black",fill="goldenrod1",alpha=0.75)+
+  labs(      
+    x = "Ocena badañ",
+    y = "Licznoœæ",
+    title="Histogram oceny badañ")
 
 
+colors()

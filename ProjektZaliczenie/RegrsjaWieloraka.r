@@ -12,20 +12,19 @@ library(dplyr)
 # y = f(x)
 # data teaching = coœ*data researching +c
 cor.test(data$Teaching, data$Research)
-cor.test(data$Teaching, data$Citations)
 
 ## wykres rozrzutu
+plot(data$Teaching, data$Research, ylab="Ocena badañ", xlab="Ocena nauczania", main = "Wyres rozrzutu")
 
-plot(data$Teaching, data$Research)
-plot(data$Teaching, data$Citations)
+plot(data$Teaching, data$Research, ylab="Ocena badañ", xlab="Ocena nauczania", main = "Model regresji liniowej")
 
 abline(1, 1)
 
 #model
 
-model1 <- lm(data$Teaching~data$Research)
+model1 <- lm(data$Research~data$Teaching)
 
-
+model1
 
 summary(model1)
 
@@ -46,29 +45,39 @@ abline(model1, col="red")
 
 # analiza reszt
 
-plot(data$Teaching, model1$residuals, ylab = 'Rezydua')
+plot(data$Teaching, model1$residuals, ylab = 'Rezydua', xlab="Ocena nauczania")
 
 summary(data$Teaching)
 summary(data$Research)
 
 
-abline(h = 0, lty = 2, col = "green")abline(v = 50, lty = 2, col = "red")
+abline(h = 0, lty = 2, col = "green")
+abline(v = 50, lty = 2, col = "red")
+
 # qq
 
-qqnorm(model1$residuals)
-qqline(model1$residuals,col = 'red')
+qqnorm(model1$residuals, main="Wizualizacja rozk³adu")
+qqline(model1$residuals,col = 'red')
+
 
 
 # sahpiro sie nie stosuje dla takiej ilosci danych
-shapiro.test(model1$residuals)
+shapiro.test(model1$residuals)
+
+
 # nieobciazonosc reszt
-mean(model1$residuals)
+mean(model1$residuals)
+
+
 
 
 # homo homo
 
 
-library(lmtest)bptest(model1)
+library(lmtest)
+bptest(model1)
+
+
 model1$r.squared
 
 ##                   2222                   ###
@@ -85,7 +94,7 @@ ggcorr(data, label = T)
 
 #H1_0: r1=0,   H1_1: r1!=0,   alfa=.05
 
-cor.test(data$world_rank, data$publications)
+cor.test(data$Teaching, data$Research)
 str(cor.test(data$world_rank, data$publications))
 
 #p<alfa - odrzucamy H1_0 - na poziomie istotnosci alfa korelacja jest istotna statystycznie
@@ -126,4 +135,8 @@ mean(model_all$residuals)
 
 library(lmtest)
 bptest(model_all)
+
+#2. normalnosc g³owna
+qqnorm(model_all$residuals)
+qqline(model_all$residuals)
 

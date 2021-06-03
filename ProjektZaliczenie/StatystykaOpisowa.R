@@ -1,46 +1,38 @@
-data <- read.csv( "universities V1.1.csv" )
-
-data <- data[-(11)] # dane z NA lata 2012 - 2013
-print(data$Overall_Ranking)
 summary(data)
 
-## ------------- Citations ------------- ##
+## ------------- Teaching ------------- ##
 
-summary(data$citations) 
-
-library(modeest)
-mlv(data$citations, method = "mfv") #moda
-
-library(moments)
-skewness(data$citations) #skoœnoœc
-
-sd(data$citations) #odchylenie
-
-var(data$citations) #wariancja
-
-quantile(data$citations) #kwantyle
-
-rozstep <- max(data$citations) - min(data$citations)
-rm(rozstep)
-
-## ------------- Patents ------------- ##
-
-summary(data$patents) 
+summary(data$Teaching) 
 
 library(modeest)
-mlv(data$patents, method = "mfv") #moda
+mlv(data$Teaching, method = "mfv") #moda
 
 library(moments)
-skewness(data$patents) #skoœnoœc
+skewness(data$Teaching) #skoœnoœc
 
-sd(data$patents) #odchylenie
+sd(data$Teaching) #odchylenie
 
-var(data$patents) #wariancja
+var(data$Teaching) #wariancja
 
-quantile(data$patents) #kwantyle
+quantile(data$Teaching) #kwantyle
 
-rozstep <- max(data$patents) - min(data$patents)
-print(rozstep)
-rm(rozstep)
+print(max(data$Teaching) - min(data$Teaching))
 
-data <- data[!df$V2 == "null", ] 
+## ------------- Reseach ------------- ##
+
+summary(data$Research) 
+
+library(modeest)
+mlv(data$Research, method = "mfv") #moda
+
+library(moments)
+skewness(data$Research) #skoœnoœc
+
+sd(data$Research) #odchylenie
+
+var(data$Research) #wariancja
+
+quantile(data$Research) #kwantyle
+
+print(max(data$Research) - min(data$Research))
+
