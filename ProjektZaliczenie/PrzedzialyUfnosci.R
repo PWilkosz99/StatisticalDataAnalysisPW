@@ -1,0 +1,34 @@
+
+data <- read.csv("cwurData.csv")
+data <- read.csv("universities V1.1.csv")
+colnames(data)
+names(data)[1] <- "rank"
+
+# ---Citations---
+
+#średnia z próby
+mu<-mean(data$citations)
+#odchylenie standardowe
+sigma<-sd(data$citations)
+
+#90% /chyba
+round(mu+c(-1,1)*sigma/sqrt(32)*qnorm(.95),2)
+
+#95% /chyba
+round(mu+c(-1,1)*sigma/sqrt(32)*qnorm(.975),2)
+
+# ---Publications---
+
+#średnia z próby
+mu<-mean(data$publications)
+#odchylenie standardowe
+sigma<-sd(data$publications)
+
+#90% /chyba
+round(mu+c(-1,1)*sigma/sqrt(32)*qnorm(.95),2)
+
+#95% /chyba
+round(mu+c(-1,1)*sigma/sqrt(32)*qnorm(.975),2)
+
+
+t.test(data$citations, conf.level = 0.95)
