@@ -33,4 +33,4 @@ ggplot(data,aes(x=Research))+
     title="Histogram oceny badañ")
 
 
-colors()
+sort(table(data$Country))
