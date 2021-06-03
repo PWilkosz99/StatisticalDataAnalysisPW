@@ -9,7 +9,8 @@ nrow(data)
 library(dplyr)
 
 ## korelacja wybranych zminennych
-
+# y = f(x)
+# data teaching = coœ*data researching +c
 cor.test(data$Teaching, data$Research)
 cor.test(data$Teaching, data$Citations)
 

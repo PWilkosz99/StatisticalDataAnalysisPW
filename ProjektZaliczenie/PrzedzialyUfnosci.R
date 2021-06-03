@@ -4,12 +4,12 @@ data <- read.csv("universities V1.1.csv")
 colnames(data)
 names(data)[1] <- "rank"
 
-# ---Citations---
+# ---Teaching---
 
 #średnia z próby
-mu<-mean(data$citations)
+mu<-mean(data$Teaching)
 #odchylenie standardowe
-sigma<-sd(data$citations)
+sigma<-sd(data$Teaching)
 
 #90% /chyba
 round(mu+c(-1,1)*sigma/sqrt(32)*qnorm(.95),2)
@@ -17,18 +17,18 @@ round(mu+c(-1,1)*sigma/sqrt(32)*qnorm(.95),2)
 #95% /chyba
 round(mu+c(-1,1)*sigma/sqrt(32)*qnorm(.975),2)
 
-# ---Publications---
+# ---Research---
 
 #średnia z próby
-mu<-mean(data$publications)
+mu<-mean(data$Research)
 #odchylenie standardowe
-sigma<-sd(data$publications)
+sigma<-sd(data$Research)
 
-#90% /chyba
+#95% /chyba
 round(mu+c(-1,1)*sigma/sqrt(32)*qnorm(.95),2)
 
 #95% /chyba
 round(mu+c(-1,1)*sigma/sqrt(32)*qnorm(.975),2)
 
 
-t.test(data$citations, conf.level = 0.95)
+t.test(data$Teaching, conf.level = 0.95)
