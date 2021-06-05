@@ -1,5 +1,5 @@
 summary(data)
-
+library(moments)
 ## ------------- Teaching ------------- ##
 
 summary(data$Teaching) 
@@ -17,6 +17,8 @@ var(data$Teaching) #wariancja
 quantile(data$Teaching) #kwantyle
 
 print(max(data$Teaching) - min(data$Teaching))
+
+kurtosis(data$Teaching)
 
 ## ------------- Reseach ------------- ##
 
@@ -36,3 +38,4 @@ quantile(data$Research) #kwantyle
 
 print(max(data$Research) - min(data$Research))
 
+kurtosis(data$Research)
