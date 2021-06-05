@@ -42,6 +42,13 @@ abline(model1, col="red")
 #14 / 44 W 9 SAD
 
 # test fishera XD
+var.test(data$Teaching ~ data$Research, data, 
+         alternative = "less")
+
+var.test(data$Teaching, data$Research, ratio = 1,
+         alternative = c("two.sided", "less", "greater"),
+         conf.level = 0.95)
+
 
 # analiza reszt
 

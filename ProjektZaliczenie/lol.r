@@ -1,3 +1,6 @@
+library(ggplot2)
+library(tidyr)
+library(tidyverse)
 
 data %>% group_by(Country) %>% summarise(n = length(Teaching)) %>% top_n(10, n) %>% ungroup() -> c
 
