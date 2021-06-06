@@ -1,6 +1,3 @@
-data <- read.csv("cwurData.csv")
-
-
 head(data)
 
 summary(data)

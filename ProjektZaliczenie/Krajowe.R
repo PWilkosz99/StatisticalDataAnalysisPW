@@ -1,5 +1,3 @@
-cwurData <- read.csv("cwurData.csv")
-
 head(cwurData)
 
 install.packages("magrittr")
